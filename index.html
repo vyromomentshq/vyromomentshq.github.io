@@ -613,6 +613,11 @@
 
       /* ---------- Video grid ---------- */
       .clips { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px 22px; }
+      .today-label { font-family: "Share Tech Mono", monospace; color: var(--cyan); font-size: 0.95rem; letter-spacing: 0.05em; margin: 0 0 18px; }
+      .archive-more { margin: 36px 0 8px; text-align: center; }
+      .archive-back { margin: 0 0 22px; }
+      .archive-link { display: inline-block; font-family: "Share Tech Mono", monospace; color: var(--ink); text-decoration: none; border: 1px solid var(--line-bright); border-radius: 999px; padding: 10px 22px; transition: color 0.2s ease, border-color 0.2s ease, transform 0.2s ease; }
+      .archive-link:hover { color: var(--cyan); border-color: var(--cyan-deep); transform: translateY(-1px); }
       .clip { display: flex; flex-direction: column; min-width: 0; border-radius: 20px; }
       .clip[hidden] { display: none; }
       .clip.flash { animation: flashring 1.8s ease-out 2; }
@@ -1245,6 +1250,7 @@
           <div class="rule"></div>
           <span class="note">New drops every day</span>
         </div>
+        <p class="today-label" id="todayLabel"></p>
         <div class="chips" role="group" aria-label="Filter clips by category">
           <button type="button" class="chip active" data-filter="all">All</button>
           <button type="button" class="chip" data-filter="esports">Esports</button>
@@ -1258,6 +1264,7 @@
           <noscript><p class="desc">Enable JavaScript to see the latest clips — or find them all on our <a href="https://facebook.com/Vyromoments6" target="_blank" rel="noopener">Facebook Page</a>.</p></noscript>
         </div>
         <p class="no-results" id="noResults" hidden>No clips in this category yet — new drops land five times a day.</p>
+        <p class="archive-more"><a class="archive-link" href="archive.html">Browse all previous clips →</a></p>
       </section>
 
       <!-- ============ SCHEDULE ============ -->
@@ -1370,6 +1377,8 @@
       // Latest clips are DATA-DRIVEN: this grid is rendered from clips.json
       // (same folder as this page). To add or reorder clips, edit clips.json and
       // drop the thumbnail image in thumbs/ — this HTML file does not change.
+      // The main grid shows ONLY the latest date in clips.json (today's
+      // drops); every older clip renders on archive.html from the same file.
       // Category chips filter the rendered grid (All / Esports / Sports / Storytelling / Viral).
       (function () {
         var grid = document.getElementById("clipGrid");
@@ -1390,6 +1399,20 @@
           return String(s == null ? "" : s)
             .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
             .replace(/"/g, "&quot;");
+        }
+
+        var DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+        var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+        function fmtDate(iso) {
+          var p = String(iso || "").split("-");
+          if (p.length !== 3) return String(iso || "");
+          var d = new Date(Date.UTC(+p[0], +p[1] - 1, +p[2]));
+          return DAYS[d.getUTCDay()] + ", " + MONTHS[+p[1] - 1] + " " + (+p[2]);
+        }
+        function latestDate(clips) {
+          var latest = "";
+          for (var i = 0; i < clips.length; i++) { if (clips[i].date && clips[i].date > latest) latest = clips[i].date; }
+          return latest;
         }
 
         function cardHTML(c) {
@@ -1440,7 +1463,11 @@
         fetch("clips.json", { cache: "no-cache" })
           .then(function (r) { if (!r.ok) throw new Error("clips.json HTTP " + r.status); return r.json(); })
           .then(function (clips) {
-            grid.innerHTML = clips.map(cardHTML).join("");
+            var latest = latestDate(clips);
+            var label = document.getElementById("todayLabel");
+            if (label && latest) label.textContent = "Today's clips — " + fmtDate(latest);
+            var todays = clips.filter(function (c) { return c.date === latest; });
+            grid.innerHTML = todays.map(cardHTML).join("");
             cards = grid.querySelectorAll(".clip");
             apply("all");
           })
