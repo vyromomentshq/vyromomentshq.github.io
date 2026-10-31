@@ -1,6 +1,55 @@
 [
-    {"accent":"violet","alt":"The Reaper grinning under a full moon","category":"storytelling viral","date":"2026-10-30","desc":"Mayor Cornelius cancelled Halloween in Harvest Falls, so the children made a dark bargain to bring it back. Something else answered — and the Reaper came to collect. Our own retelling with original narration, not the original story audio.","duration":"0:15","genre":"Storytelling","id":"clip43","links":{"facebook":"https://facebook.com/reel/1146590424980458/"},"platform":"Facebook","thumb":"thumbs/clip43-reaper.jpg","title":"The children of Harvest Falls made a bargain to save Halloween. Something else answered.","url":"https://facebook.com/reel/1146590424980458/"},
-  {"accent": "violet", "alt": "Woman listening in a bathroom stall after hearing crying from the next stall", "category": "storytelling viral", "date": "2026-10-30", "desc": "She thought the bathroom was empty. Then someone started crying in the next stall. A young woman out for a run stops at a public bathroom that looks empty, then hears crying from another stall and freezes, listening to a cry from someone she cannot see. Ashlyn Khan wrote, directed and stars in this horror short. Not every cry for help is meant to be answered.", "duration": "0:30", "genre": "Storytelling", "id": "clip42", "links": {"facebook": "https://facebook.com/reel/1126346326796857/"}, "platform": "Facebook", "thumb": "thumbs/clip42-areyouokay.jpg", "title": "She thought the bathroom was empty. Then someone started crying in the next stall.", "url": "https://facebook.com/reel/1126346326796857/"},
+  {
+    "accent": "violet",
+    "alt": "Floyd asleep on the couch as the phone rings with a frantic warning",
+    "category": "storytelling viral",
+    "date": "2026-10-30",
+    "desc": "A frantic call warns Floyd that someone is coming for him — and it does not sound like a joke. This is Mama Bear, Curry Barker's five-minute horror short from his channel, that's a bad idea, premiered October 29.",
+    "duration": "0:31",
+    "genre": "Storytelling",
+    "id": "clip44",
+    "links": {
+      "facebook": "https://facebook.com/reel/1447704817323802/"
+    },
+    "platform": "Facebook",
+    "thumb": "thumbs/clip44-mamabear.jpg",
+    "title": "He was asleep on the couch when the phone woke him up.",
+    "url": "https://facebook.com/reel/1447704817323802/"
+  },
+  {
+    "accent": "violet",
+    "alt": "The Reaper grinning under a full moon",
+    "category": "storytelling viral",
+    "date": "2026-10-30",
+    "desc": "Mayor Cornelius cancelled Halloween in Harvest Falls, so the children made a dark bargain to bring it back. Something else answered — and the Reaper came to collect. Our own retelling with original narration, not the original story audio.",
+    "duration": "0:15",
+    "genre": "Storytelling",
+    "id": "clip43",
+    "links": {
+      "facebook": "https://facebook.com/reel/1146590424980458/"
+    },
+    "platform": "Facebook",
+    "thumb": "thumbs/clip43-reaper.jpg",
+    "title": "The children of Harvest Falls made a bargain to save Halloween. Something else answered.",
+    "url": "https://facebook.com/reel/1146590424980458/"
+  },
+  {
+    "accent": "violet",
+    "alt": "Woman listening in a bathroom stall after hearing crying from the next stall",
+    "category": "storytelling viral",
+    "date": "2026-10-30",
+    "desc": "She thought the bathroom was empty. Then someone started crying in the next stall. A young woman out for a run stops at a public bathroom that looks empty, then hears crying from another stall and freezes, listening to a cry from someone she cannot see. Ashlyn Khan wrote, directed and stars in this horror short. Not every cry for help is meant to be answered.",
+    "duration": "0:30",
+    "genre": "Storytelling",
+    "id": "clip42",
+    "links": {
+      "facebook": "https://facebook.com/reel/1126346326796857/"
+    },
+    "platform": "Facebook",
+    "thumb": "thumbs/clip42-areyouokay.jpg",
+    "title": "She thought the bathroom was empty. Then someone started crying in the next stall.",
+    "url": "https://facebook.com/reel/1126346326796857/"
+  },
   {
     "accent": "gold",
     "alt": "Kind neighbour adding her own candy to the community bowl in the apartment hallway",
