@@ -1,5 +1,114 @@
 [
   {
+    "id": "m9",
+    "title": "Everyone quits at the dip. Will you? 💪",
+    "desc": "Are you pushing through your dip right now?",
+    "date": "2026-11-06",
+    "duration": "0:28",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m9-everyone-quits.jpg",
+    "url": "https://www.instagram.com/reel/DfbBae7jFM_/",
+    "platform": "instagram",
+    "alt": "Boxer hitting a heavy bag in a dark blue-lit gym",
+    "links": {
+      "instagram": "https://www.instagram.com/reel/DfbBae7jFM_/"
+    }
+  },
+  {
+    "id": "b4",
+    "title": "The mountain doesn't care. Climb anyway. 🏔️",
+    "desc": "What mountain are you climbing right now?",
+    "date": "2026-11-06",
+    "duration": "0:13",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/b4-mountain.jpg",
+    "url": "https://www.instagram.com/reel/Dfa5S4wDJG-/",
+    "platform": "instagram",
+    "alt": "Climber ascending a snowy mountain slope at sunset",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1521494650003433",
+      "instagram": "https://www.instagram.com/reel/Dfa5S4wDJG-/"
+    }
+  },
+  {
+    "id": "m8",
+    "title": "Jealousy isn't hate — it's a compass 🧭",
+    "desc": "What is your jealousy pointing at?",
+    "date": "2026-11-06",
+    "duration": "0:27",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m8-jealousy.jpg",
+    "url": "https://www.instagram.com/reel/DfayqAWjAe5/",
+    "platform": "instagram",
+    "alt": "Runner training alone on a foggy city street at dawn",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1073991475677639",
+      "instagram": "https://www.instagram.com/reel/DfayqAWjAe5/"
+    }
+  },
+  {
+    "id": "m7",
+    "title": "One more rep changes everything. 🏋️🔥",
+    "desc": "When did you last push past the rep you wanted to quit on?",
+    "date": "2026-11-06",
+    "duration": "0:24",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m7-one-more-rep.jpg",
+    "url": "https://www.youtube.com/shorts/0jVbZwxhpz0",
+    "platform": "youtube",
+    "alt": "Athlete grinding through a heavy barbell squat in a dark gym",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/2136109910346680",
+      "instagram": "https://www.instagram.com/reel/DfajbuLDHaA/",
+      "youtube": "https://www.youtube.com/shorts/0jVbZwxhpz0"
+    }
+  },
+  {
+    "id": "b2",
+    "title": "Chase the sunrise, own the day. 🌅",
+    "desc": "Do you wake up before the sun?",
+    "date": "2026-11-06",
+    "duration": "0:14",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/b2-chase-the-sunrise.jpg",
+    "url": "https://www.youtube.com/shorts/B3OzTDmcUrQ",
+    "platform": "youtube",
+    "alt": "Athlete tying running shoes on a hilltop at sunrise",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1623074022161835",
+      "youtube": "https://www.youtube.com/shorts/B3OzTDmcUrQ"
+    }
+  },
+  {
+    "id": "m6",
+    "title": "Your comfort zone is a coffin. ⚰️🔥",
+    "desc": "What's one thing you're avoiding that you need to face today?",
+    "date": "2026-11-06",
+    "duration": "0:24",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m6-comfort-zone.jpg",
+    "url": "https://www.youtube.com/shorts/6jt9R60qpm0",
+    "platform": "youtube",
+    "alt": "Athlete standing beside a barbell in a dark blue-lit gym",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/945575385084657",
+      "instagram": "https://www.instagram.com/reel/DfaJ5h1CaND/",
+      "youtube": "https://www.youtube.com/shorts/6jt9R60qpm0"
+    }
+  },
+  {
     "id": "b1",
     "title": "Nobody cares about your story — only your results. 💪",
     "desc": "Are you working hard enough today?",
@@ -18,101 +127,101 @@
       "youtube": "https://www.youtube.com/shorts/6xRrqKBKF5o"
     }
   },
-    {
-      "id": "m5",
-      "title": "Win the morning, win the day. 🌅💪",
-      "desc": "What time did you win your morning today?",
-      "date": "2026-11-06",
-      "duration": "0:24",
-      "genre": "Motivation",
-      "category": "motivation",
-      "accent": "gold",
-      "thumb": "thumbs/m5-morning.jpg",
-      "url": "https://www.youtube.com/shorts/BuabGW3urxo",
-      "platform": "youtube",
-      "alt": "Athlete training in a dark gym at dawn",
-      "links": {
-        "facebook": "https://www.facebook.com/reel/2007260753278796",
-        "instagram": "https://www.instagram.com/reel/DfaGCTmCay3/",
-        "youtube": "https://www.youtube.com/shorts/BuabGW3urxo"
-      }
-    },
-    {
-      "id": "m4",
-      "title": "Pain is the tuition. Success is the degree. 🎓🔥",
-      "desc": "What did your hardest lesson teach you?",
-      "date": "2026-11-05",
-      "duration": "0:21",
-      "genre": "Motivation",
-      "category": "motivation",
-      "accent": "gold",
-      "thumb": "thumbs/m4-pain.jpg",
-      "url": "https://www.youtube.com/shorts/jBec3zIzZcE",
-      "platform": "youtube",
-      "alt": "Athlete pushing through a hard workout in a dark gym",
-      "links": {
-        "facebook": "https://www.facebook.com/reel/1478559797526514",
-        "instagram": "https://www.instagram.com/reel/DfYcDeFDkVN/",
-        "youtube": "https://www.youtube.com/shorts/jBec3zIzZcE"
-      }
-    },
-    {
-      "id": "m3",
-      "title": "Disappear for 90 days. Come back unrecognizable. 🥷🔥",
-      "desc": "Could you vanish for 90 days and just grind?",
-      "date": "2026-11-05",
-      "duration": "0:19",
-      "genre": "Motivation",
-      "category": "motivation",
-      "accent": "gold",
-      "thumb": "thumbs/m3-disappear.jpg",
-      "url": "https://www.youtube.com/shorts/WRBpZblbk3Q",
-      "platform": "youtube",
-      "alt": "Lone athlete training in the dark",
-      "links": {
-        "facebook": "https://www.facebook.com/reel/1149436934262526",
-        "instagram": "https://www.instagram.com/reel/DfYN0F-JiXA/",
-        "youtube": "https://www.youtube.com/shorts/WRBpZblbk3Q"
-      }
-    },
-    {
-      "id": "m2",
-      "title": "Your excuses are expensive — and your future is paying for them. 💸🔥",
-      "desc": "What's the one excuse you're killing today?",
-      "date": "2026-11-05",
-      "duration": "0:23",
-      "genre": "Motivation",
-      "category": "motivation",
-      "accent": "gold",
-      "thumb": "thumbs/m2-excuses.jpg",
-      "url": "https://www.youtube.com/shorts/6y13EHhRFtQ",
-      "platform": "youtube",
-      "alt": "Athlete training hard in a dark gym",
-      "links": {
-        "facebook": "https://www.facebook.com/reel/2164323527625989",
-        "instagram": "https://www.instagram.com/reel/DfX7Es3k1ec/",
-        "youtube": "https://www.youtube.com/shorts/6y13EHhRFtQ"
-      }
-    },
-    {
-      "id": "m1",
-      "title": "Motivation is a liar. Discipline is the truth. 🔥",
-      "desc": "Be honest — are you running on motivation or discipline?",
-      "date": "2026-11-05",
-      "duration": "0:20",
-      "genre": "Motivation",
-      "category": "motivation",
-      "accent": "gold",
-      "thumb": "thumbs/m1-discipline.jpg",
-      "url": "https://www.youtube.com/shorts/qL6sSmYJ__8",
-      "platform": "youtube",
-      "alt": "Muscular athlete training in a dark blue-lit gym",
-      "links": {
-        "facebook": "https://www.facebook.com/reel/1768273254253419",
-        "instagram": "https://www.instagram.com/reel/DfX7EJ9E-i7/",
-        "youtube": "https://www.youtube.com/shorts/qL6sSmYJ__8"
-      }
-    },
+  {
+    "id": "m5",
+    "title": "Win the morning, win the day. 🌅💪",
+    "desc": "What time did you win your morning today?",
+    "date": "2026-11-06",
+    "duration": "0:24",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m5-morning.jpg",
+    "url": "https://www.youtube.com/shorts/BuabGW3urxo",
+    "platform": "youtube",
+    "alt": "Athlete training in a dark gym at dawn",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/2007260753278796",
+      "instagram": "https://www.instagram.com/reel/DfaGCTmCay3/",
+      "youtube": "https://www.youtube.com/shorts/BuabGW3urxo"
+    }
+  },
+  {
+    "id": "m4",
+    "title": "Pain is the tuition. Success is the degree. 🎓🔥",
+    "desc": "What did your hardest lesson teach you?",
+    "date": "2026-11-05",
+    "duration": "0:21",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m4-pain.jpg",
+    "url": "https://www.youtube.com/shorts/jBec3zIzZcE",
+    "platform": "youtube",
+    "alt": "Athlete pushing through a hard workout in a dark gym",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1478559797526514",
+      "instagram": "https://www.instagram.com/reel/DfYcDeFDkVN/",
+      "youtube": "https://www.youtube.com/shorts/jBec3zIzZcE"
+    }
+  },
+  {
+    "id": "m3",
+    "title": "Disappear for 90 days. Come back unrecognizable. 🥷🔥",
+    "desc": "Could you vanish for 90 days and just grind?",
+    "date": "2026-11-05",
+    "duration": "0:19",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m3-disappear.jpg",
+    "url": "https://www.youtube.com/shorts/WRBpZblbk3Q",
+    "platform": "youtube",
+    "alt": "Lone athlete training in the dark",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1149436934262526",
+      "instagram": "https://www.instagram.com/reel/DfYN0F-JiXA/",
+      "youtube": "https://www.youtube.com/shorts/WRBpZblbk3Q"
+    }
+  },
+  {
+    "id": "m2",
+    "title": "Your excuses are expensive — and your future is paying for them. 💸🔥",
+    "desc": "What's the one excuse you're killing today?",
+    "date": "2026-11-05",
+    "duration": "0:23",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m2-excuses.jpg",
+    "url": "https://www.youtube.com/shorts/6y13EHhRFtQ",
+    "platform": "youtube",
+    "alt": "Athlete training hard in a dark gym",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/2164323527625989",
+      "instagram": "https://www.instagram.com/reel/DfX7Es3k1ec/",
+      "youtube": "https://www.youtube.com/shorts/6y13EHhRFtQ"
+    }
+  },
+  {
+    "id": "m1",
+    "title": "Motivation is a liar. Discipline is the truth. 🔥",
+    "desc": "Be honest — are you running on motivation or discipline?",
+    "date": "2026-11-05",
+    "duration": "0:20",
+    "genre": "Motivation",
+    "category": "motivation",
+    "accent": "gold",
+    "thumb": "thumbs/m1-discipline.jpg",
+    "url": "https://www.youtube.com/shorts/qL6sSmYJ__8",
+    "platform": "youtube",
+    "alt": "Muscular athlete training in a dark blue-lit gym",
+    "links": {
+      "facebook": "https://www.facebook.com/reel/1768273254253419",
+      "instagram": "https://www.instagram.com/reel/DfX7EJ9E-i7/",
+      "youtube": "https://www.youtube.com/shorts/qL6sSmYJ__8"
+    }
+  },
   {
     "id": "clip79",
     "title": "Her imaginary friend showed up on the doorbell camera.",
@@ -1155,4 +1264,3 @@
     "url": "https://facebook.com/reel/1883707809455642/"
   }
 ]
-
