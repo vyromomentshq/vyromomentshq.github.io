@@ -1,5 +1,59 @@
 [
-  {
+ {
+  "id": "h4",
+  "title": "Racing heart, tight chest, mind that won't switch off? 😰",
+  "desc": "What stresses you out most right now?",
+  "date": "2026-11-08",
+  "duration": "0:32",
+  "genre": "Health",
+  "category": "health",
+  "accent": "gold",
+  "thumb": "thumbs/h4-stress-anxiety.jpg",
+  "url": "https://www.youtube.com/shorts/rbbHbF9mO90",
+  "platform": "youtube",
+  "alt": "Animated man looking stressed and overwhelmed at his desk",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1560523756103245",
+   "youtube": "https://www.youtube.com/shorts/rbbHbF9mO90"
+  }
+ },
+ {
+  "id": "h3",
+  "title": "Hours hunched over a screen and your neck is screaming? 🧑‍💻",
+  "desc": "How many hours do you sit without moving?",
+  "date": "2026-11-08",
+  "duration": "0:32",
+  "genre": "Health",
+  "category": "health",
+  "accent": "gold",
+  "thumb": "thumbs/h3-neck-back-pain.jpg",
+  "url": "https://www.youtube.com/shorts/zN75L_BUExg",
+  "platform": "youtube",
+  "alt": "Animated man at a desk holding his stiff neck in pain",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1560419619446992",
+   "youtube": "https://www.youtube.com/shorts/zN75L_BUExg"
+  }
+ },
+ {
+  "id": "h1",
+  "title": "Tired all day even after a full night's sleep? 😴",
+  "desc": "What time do you really fall asleep?",
+  "date": "2026-11-07",
+  "duration": "0:32",
+  "genre": "Health",
+  "category": "health",
+  "accent": "gold",
+  "thumb": "thumbs/h1-poor-sleep.jpg",
+  "url": "https://www.youtube.com/shorts/_Jivko11qtQ",
+  "platform": "youtube",
+  "alt": "Animated man lying awake in bed at night, unable to sleep",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1559521252870162",
+   "youtube": "https://www.youtube.com/shorts/_Jivko11qtQ"
+  }
+ },
+ {
   "id": "m13",
   "title": "Your focus is under attack. ⚔️",
   "desc": "What's the #1 thing stealing your focus right now?",
@@ -13,10 +67,10 @@
   "platform": "facebook",
   "alt": "Athlete doing pull-ups on a bar in a dark blue-lit gym",
   "links": {
-    "facebook": "https://www.facebook.com/reel/4584743961786604"
+   "facebook": "https://www.facebook.com/reel/4584743961786604"
   }
-},
-  {
+ },
+ {
   "id": "m12",
   "title": "The last 10% is where winners are made. 🔥",
   "desc": "What have you left unfinished?",
@@ -30,10 +84,10 @@
   "platform": "youtube",
   "alt": "Athlete grinding through a heavy barbell squat in a dark gym",
   "links": {
-    "youtube": "https://www.youtube.com/shorts/D-k74Nv7a6g"
+   "youtube": "https://www.youtube.com/shorts/D-k74Nv7a6g"
   }
-},
-  {
+ },
+ {
   "id": "m11",
   "title": "Believe first. The proof comes later. ✨",
   "desc": "What would you do if you already believed it was yours?",
@@ -47,11 +101,11 @@
   "platform": "youtube",
   "alt": "Sprinter driving forward in a blue-lit stadium at dawn",
   "links": {
-    "facebook": "https://www.facebook.com/reel/1528242379129104",
-    "youtube": "https://www.youtube.com/shorts/Dfq54K1dSW0"
+   "facebook": "https://www.facebook.com/reel/1528242379129104",
+   "youtube": "https://www.youtube.com/shorts/Dfq54K1dSW0"
   }
-},
-  {
+ },
+ {
   "id": "m10",
   "title": "Talent is a trap. Work beats it every time. 🪤",
   "desc": "Are you relying on talent — or outworking everyone?",
@@ -65,63 +119,63 @@
   "platform": "youtube",
   "alt": "Muscular athlete mid-deadlift in a dark blue-lit gym",
   "links": {
-    "youtube": "https://www.youtube.com/shorts/PWyYiz9cEis"
+   "youtube": "https://www.youtube.com/shorts/PWyYiz9cEis"
   }
-},
-  {
-    "id": "m9",
-    "title": "Everyone quits at the dip. Will you? 💪",
-    "desc": "Are you pushing through your dip right now?",
-    "date": "2026-11-06",
-    "duration": "0:28",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m9-everyone-quits.jpg",
-    "url": "https://www.instagram.com/reel/DfbBae7jFM_/",
-    "platform": "instagram",
-    "alt": "Boxer hitting a heavy bag in a dark blue-lit gym",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfbBae7jFM_/"
-    }
-  },
-  {
-    "id": "b4",
-    "title": "The mountain doesn't care. Climb anyway. 🏔️",
-    "desc": "What mountain are you climbing right now?",
-    "date": "2026-11-06",
-    "duration": "0:13",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/b4-mountain.jpg",
-    "url": "https://www.instagram.com/reel/Dfa5S4wDJG-/",
-    "platform": "instagram",
-    "alt": "Climber ascending a snowy mountain slope at sunset",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1521494650003433",
-      "instagram": "https://www.instagram.com/reel/Dfa5S4wDJG-/"
-    }
-  },
-  {
-    "id": "m8",
-    "title": "Jealousy isn't hate — it's a compass 🧭",
-    "desc": "What is your jealousy pointing at?",
-    "date": "2026-11-06",
-    "duration": "0:27",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m8-jealousy.jpg",
-    "url": "https://www.instagram.com/reel/DfayqAWjAe5/",
-    "platform": "instagram",
-    "alt": "Runner training alone on a foggy city street at dawn",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1073991475677639",
-      "instagram": "https://www.instagram.com/reel/DfayqAWjAe5/"
-    }
-  },
-  {
+ },
+ {
+  "id": "m9",
+  "title": "Everyone quits at the dip. Will you? 💪",
+  "desc": "Are you pushing through your dip right now?",
+  "date": "2026-11-06",
+  "duration": "0:28",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m9-everyone-quits.jpg",
+  "url": "https://www.instagram.com/reel/DfbBae7jFM_/",
+  "platform": "instagram",
+  "alt": "Boxer hitting a heavy bag in a dark blue-lit gym",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfbBae7jFM_/"
+  }
+ },
+ {
+  "id": "b4",
+  "title": "The mountain doesn't care. Climb anyway. 🏔️",
+  "desc": "What mountain are you climbing right now?",
+  "date": "2026-11-06",
+  "duration": "0:13",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/b4-mountain.jpg",
+  "url": "https://www.instagram.com/reel/Dfa5S4wDJG-/",
+  "platform": "instagram",
+  "alt": "Climber ascending a snowy mountain slope at sunset",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1521494650003433",
+   "instagram": "https://www.instagram.com/reel/Dfa5S4wDJG-/"
+  }
+ },
+ {
+  "id": "m8",
+  "title": "Jealousy isn't hate — it's a compass 🧭",
+  "desc": "What is your jealousy pointing at?",
+  "date": "2026-11-06",
+  "duration": "0:27",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m8-jealousy.jpg",
+  "url": "https://www.instagram.com/reel/DfayqAWjAe5/",
+  "platform": "instagram",
+  "alt": "Runner training alone on a foggy city street at dawn",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1073991475677639",
+   "instagram": "https://www.instagram.com/reel/DfayqAWjAe5/"
+  }
+ },
+ {
   "id": "b3",
   "title": "Dreams charge rent daily — pay it in sweat. 💦",
   "desc": "Did you pay your rent today?",
@@ -135,1218 +189,1218 @@
   "platform": "youtube",
   "alt": "Athlete doing pull-ups on an outdoor bar at sunrise",
   "links": {
-    "youtube": "https://www.youtube.com/shorts/Z3vY5bXJmyg"
+   "youtube": "https://www.youtube.com/shorts/Z3vY5bXJmyg"
   }
-},
-  {
-    "id": "m7",
-    "title": "One more rep changes everything. 🏋️🔥",
-    "desc": "When did you last push past the rep you wanted to quit on?",
-    "date": "2026-11-06",
-    "duration": "0:24",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m7-one-more-rep.jpg",
-    "url": "https://www.youtube.com/shorts/0jVbZwxhpz0",
-    "platform": "youtube",
-    "alt": "Athlete grinding through a heavy barbell squat in a dark gym",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/2136109910346680",
-      "instagram": "https://www.instagram.com/reel/DfajbuLDHaA/",
-      "youtube": "https://www.youtube.com/shorts/0jVbZwxhpz0"
-    }
-  },
-  {
-    "id": "b2",
-    "title": "Chase the sunrise, own the day. 🌅",
-    "desc": "Do you wake up before the sun?",
-    "date": "2026-11-06",
-    "duration": "0:14",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/b2-chase-the-sunrise.jpg",
-    "url": "https://www.youtube.com/shorts/B3OzTDmcUrQ",
-    "platform": "youtube",
-    "alt": "Athlete tying running shoes on a hilltop at sunrise",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1623074022161835",
-      "youtube": "https://www.youtube.com/shorts/B3OzTDmcUrQ"
-    }
-  },
-  {
-    "id": "m6",
-    "title": "Your comfort zone is a coffin. ⚰️🔥",
-    "desc": "What's one thing you're avoiding that you need to face today?",
-    "date": "2026-11-06",
-    "duration": "0:24",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m6-comfort-zone.jpg",
-    "url": "https://www.youtube.com/shorts/6jt9R60qpm0",
-    "platform": "youtube",
-    "alt": "Athlete standing beside a barbell in a dark blue-lit gym",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/945575385084657",
-      "instagram": "https://www.instagram.com/reel/DfaJ5h1CaND/",
-      "youtube": "https://www.youtube.com/shorts/6jt9R60qpm0"
-    }
-  },
-  {
-    "id": "b1",
-    "title": "Nobody cares about your story — only your results. 💪",
-    "desc": "Are you working hard enough today?",
-    "date": "2026-11-06",
-    "duration": "0:14",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/b1-nobody-cares.jpg",
-    "url": "https://www.youtube.com/shorts/6xRrqKBKF5o",
-    "platform": "youtube",
-    "alt": "Athlete training outdoors at sunrise",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/2443335609740423",
-      "instagram": "https://www.instagram.com/reel/DfZ9UleAisQ/",
-      "youtube": "https://www.youtube.com/shorts/6xRrqKBKF5o"
-    }
-  },
-  {
-    "id": "m5",
-    "title": "Win the morning, win the day. 🌅💪",
-    "desc": "What time did you win your morning today?",
-    "date": "2026-11-06",
-    "duration": "0:24",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m5-morning.jpg",
-    "url": "https://www.youtube.com/shorts/BuabGW3urxo",
-    "platform": "youtube",
-    "alt": "Athlete training in a dark gym at dawn",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/2007260753278796",
-      "instagram": "https://www.instagram.com/reel/DfaGCTmCay3/",
-      "youtube": "https://www.youtube.com/shorts/BuabGW3urxo"
-    }
-  },
-  {
-    "id": "m4",
-    "title": "Pain is the tuition. Success is the degree. 🎓🔥",
-    "desc": "What did your hardest lesson teach you?",
-    "date": "2026-11-05",
-    "duration": "0:21",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m4-pain.jpg",
-    "url": "https://www.youtube.com/shorts/jBec3zIzZcE",
-    "platform": "youtube",
-    "alt": "Athlete pushing through a hard workout in a dark gym",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1478559797526514",
-      "instagram": "https://www.instagram.com/reel/DfYcDeFDkVN/",
-      "youtube": "https://www.youtube.com/shorts/jBec3zIzZcE"
-    }
-  },
-  {
-    "id": "m3",
-    "title": "Disappear for 90 days. Come back unrecognizable. 🥷🔥",
-    "desc": "Could you vanish for 90 days and just grind?",
-    "date": "2026-11-05",
-    "duration": "0:19",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m3-disappear.jpg",
-    "url": "https://www.youtube.com/shorts/WRBpZblbk3Q",
-    "platform": "youtube",
-    "alt": "Lone athlete training in the dark",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1149436934262526",
-      "instagram": "https://www.instagram.com/reel/DfYN0F-JiXA/",
-      "youtube": "https://www.youtube.com/shorts/WRBpZblbk3Q"
-    }
-  },
-  {
-    "id": "m2",
-    "title": "Your excuses are expensive — and your future is paying for them. 💸🔥",
-    "desc": "What's the one excuse you're killing today?",
-    "date": "2026-11-05",
-    "duration": "0:23",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m2-excuses.jpg",
-    "url": "https://www.youtube.com/shorts/6y13EHhRFtQ",
-    "platform": "youtube",
-    "alt": "Athlete training hard in a dark gym",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/2164323527625989",
-      "instagram": "https://www.instagram.com/reel/DfX7Es3k1ec/",
-      "youtube": "https://www.youtube.com/shorts/6y13EHhRFtQ"
-    }
-  },
-  {
-    "id": "m1",
-    "title": "Motivation is a liar. Discipline is the truth. 🔥",
-    "desc": "Be honest — are you running on motivation or discipline?",
-    "date": "2026-11-05",
-    "duration": "0:20",
-    "genre": "Motivation",
-    "category": "motivation",
-    "accent": "gold",
-    "thumb": "thumbs/m1-discipline.jpg",
-    "url": "https://www.youtube.com/shorts/qL6sSmYJ__8",
-    "platform": "youtube",
-    "alt": "Muscular athlete training in a dark blue-lit gym",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1768273254253419",
-      "instagram": "https://www.instagram.com/reel/DfX7EJ9E-i7/",
-      "youtube": "https://www.youtube.com/shorts/qL6sSmYJ__8"
-    }
-  },
-  {
-    "id": "clip79",
-    "title": "Her imaginary friend showed up on the doorbell camera.",
-    "desc": "Nobody in the house could see him. 👻",
-    "date": "2026-11-05",
-    "duration": "0:44",
-    "genre": "Storytelling",
-    "category": "storytelling viral",
-    "accent": "violet",
-    "thumb": "thumbs/clip79-thunk.jpg",
-    "url": "https://www.instagram.com/reel/DfX1zTStjY1/",
-    "platform": "instagram",
-    "alt": "Her imaginary friend showed up on the doorbell camera",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1694450758683420",
-      "instagram": "https://www.instagram.com/reel/DfX1zTStjY1/"
-    }
-  },
-  {
-    "accent": "violet",
-    "alt": "McStuffins, the dog returned three times for being too energetic",
-    "category": "storytelling viral",
-    "date": "2026-11-04",
-    "desc": "Would you drive six hours for a dog like McStuffins?",
-    "duration": "0:36",
-    "genre": "Storytelling",
-    "id": "clip76",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/4624892057765941",
-      "instagram": "https://www.instagram.com/reel/DfXgXhkj2hg/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip76-mcstuffins.jpg",
-    "title": "Returned three times for being 'too energetic.' Then a stranger who loved her videos drove six hours just to meet her. 🐾❤️",
-    "url": "https://www.instagram.com/reel/DfXgXhkj2hg/"
-  },
-  {
-    "accent": "violet",
-    "alt": "A housewarming in a brand-new home",
-    "category": "storytelling viral",
-    "date": "2026-11-04",
-    "desc": "Would you stay the night in a house with a curse on it?",
-    "duration": "0:38",
-    "genre": "Storytelling",
-    "id": "clip75",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/2107683399866608",
-      "instagram": "https://www.instagram.com/reel/DfVwq9gDnMw/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip75-hollowing.jpg",
-    "title": "A housewarming in October. A brand-new home. And then someone said the words that changed the whole night… 👻",
-    "url": "https://www.instagram.com/reel/DfVwq9gDnMw/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Short Cake, a low-rider shelter dog in an adopt-me vest, on a leash at a farmers market",
-    "category": "viral",
-    "date": "2026-11-04",
-    "desc": "Then the shelter took her to the farmers market — and Short Cake owned it. 🐾❤️",
-    "duration": "0:34",
-    "genre": "Animals",
-    "id": "clip74",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1157973693233354",
-      "instagram": "https://www.instagram.com/reel/DfVQ8bQjyCC/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip74-shortcake.jpg",
-    "title": "She lost her home when her owner had nowhere left to go.",
-    "url": "https://www.instagram.com/reel/DfVQ8bQjyCC/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Dad trying to keep the house spotless for Diwali while his son creates chaos at home",
-    "category": "viral",
-    "date": "2026-11-04",
-    "desc": "His son had other plans. 😂🧹",
-    "duration": "0:36",
-    "genre": "Viral",
-    "id": "clip73",
-    "links": {
-      "facebook": "https://www.facebook.com/reel/1883848512786351",
-      "instagram": "https://www.instagram.com/reel/DfU_ytPEz2l/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip73-son-chaos.jpg",
-    "title": "Dad wanted a spotless house for Diwali.",
-    "url": "https://www.instagram.com/reel/DfU_ytPEz2l/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Berry the dog standing on two legs and dancing to a viral trend",
-    "category": "viral",
-    "date": "2026-11-04",
-    "desc": "Two legs, full routine, and he even argued with the camera. 😂🐶💃",
-    "duration": "0:20",
-    "genre": "Animals",
-    "id": "clip72",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfU12YfDvEA/",
-      "facebook": "https://www.facebook.com/reel/1128477203435834"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip72-berry.jpg",
-    "title": "He heard the viral dance trend — and refused to sit this one out.",
-    "url": "https://www.instagram.com/reel/DfU12YfDvEA/"
-  },
-  {
-    "accent": "gold",
-    "alt": "A rescue volunteer kneels beside dog travel crates before Roman's ride home",
-    "category": "viral",
-    "date": "2026-11-03",
-    "desc": "Then one video changed everything — and today, he's home. 🐾❤️",
-    "duration": "0:20",
-    "genre": "Animals",
-    "id": "clip69",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfTVvYkk1Dn/",
-      "facebook": "https://www.facebook.com/reel/1472044681569400"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip69-roman-freedom.jpg",
-    "title": "Roman waited at his kennel door for a family that never came back. 💔",
-    "url": "https://www.instagram.com/reel/DfTVvYkk1Dn/"
-  },
-  {
-    "accent": "violet",
-    "alt": "A smiling woman in a witch costume hands Halloween candy to costumed trick-or-treaters at her door",
-    "category": "storytelling viral",
-    "date": "2026-11-03",
-    "desc": "A scary retelling of ACMofficial's short horror film \"Trick or Treat.\"",
-    "duration": "0:20",
-    "genre": "Storytelling",
-    "id": "clip68",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfTEJeaDmZV/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip68-trick-or-treat.jpg",
-    "title": "🎃 She answers the door smiling in her witch costume — but the radio inside hints this Halloween night is not what it seems.",
-    "url": "https://www.instagram.com/reel/DfTEJeaDmZV/"
-  },
-  {
-    "accent": "violet",
-    "alt": "An elderly passenger reflected in a night bus mirror above empty seats",
-    "category": "storytelling viral",
-    "date": "2026-11-03",
-    "desc": "Night driver Tom keeps finding one extra passenger on his counter — every run, for years — then a paper transfer dated forty years ago. Our own scary retelling of Part 2 of the passenger who never gets off.",
-    "duration": "0:20",
-    "genre": "Storytelling",
-    "id": "clip67",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfStjNQDnIw/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip67-passenger.jpg",
-    "title": "Tom's last seat is empty. His mirror says otherwise. 🚌👻",
-    "url": "https://www.instagram.com/reel/DfStjNQDnIw/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Same dad, two teenagers — and two VERY different sets of rules. 😂",
-    "category": "viral",
-    "date": "2026-11-03",
-    "desc": "Sarah Elizabeth Hyde plays all three characters in this Chad Daniels comedy: for her 14-year-old daughter, a party means keeping her water bottle close and not running into the woods with four boys — but for her 18-year-old son, the same warning ends with him looking awesome.",
-    "duration": "0:20",
-    "genre": "Viral",
-    "id": "clip66",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfSa_LijLHB/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip66-chad-daniels.jpg",
-    "title": "Same dad, two teenagers — and two VERY different sets of rules. 😂",
-    "url": "https://www.instagram.com/reel/DfSa_LijLHB/"
-  },
-  {
-    "accent": "gold",
-    "alt": "He grabbed the camera and became a YouTuber on the spot 😂 No studio, no script — just pure confidence and a garden vlog!",
-    "category": "viral",
-    "date": "2026-11-03",
-    "desc": "Follow VyroMoments for your daily viral fix ❤️\nWould you subscribe to his channel? Tell us below! 👇",
-    "duration": "0:20",
-    "genre": "Viral",
-    "id": "clip65",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfSWpdcE-ra/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip65-son-youtuber.jpg",
-    "title": "He grabbed the camera and became a YouTuber on the spot 😂 No studio, no script — just pure confidence and a garden vlog!",
-    "url": "https://www.instagram.com/reel/DfSWpdcE-ra/"
-  },
-  {
-    "accent": "gold",
-    "alt": "A school bus full of dogs in Halloween costumes? Yes, please. 🐶🚌",
-    "category": "viral",
-    "date": "2026-11-02",
-    "desc": "In Calgary, Denzel Morrison quit his other job to drive this bus full-time. His parents ran a dog rescue, and in 2020 he started Ruff and Puff — a bus that picks pups up at home and takes them to a private park to play.",
-    "duration": "0:20",
-    "genre": "Animals",
-    "id": "clip64",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfQ0WgOD9EC/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip64-dogbus.jpg",
-    "title": "A school bus full of dogs in Halloween costumes? Yes, please. 🐶🚌",
-    "url": "https://www.instagram.com/reel/DfQ0WgOD9EC/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Dezzi the Dalmatian, a shelter rescue dog, on his way to a new home",
-    "category": "viral",
-    "date": "2026-11-02",
-    "desc": "This Dalmatian was found roaming the streets of Philadelphia, and by his fourth day in the shelter he was starting to decline. Rachel went to see him every single day, for hours, just to play — and then a couple drove an hour to meet him and took him home.",
-    "duration": "0:20",
-    "genre": "Animals",
-    "id": "clip63",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfQfs76j_XI/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip63-dezzi.jpg",
-    "title": "Dezzi had zero interest… until one person refused to give up on him. 🐾",
-    "url": "https://www.instagram.com/reel/DfQfs76j_XI/"
-  },
-  {
-    "accent": "violet",
-    "alt": "A knock at the door late at night. He opens it… and lets a stranger step inside.",
-    "category": "storytelling viral",
-    "date": "2026-11-02",
-    "desc": "He opens it… and lets a stranger step inside. 😱 This is the setup of Temptress, A Visualz's Halloween horror short — where desire turns into a trap.",
-    "duration": "0:20",
-    "genre": "Storytelling",
-    "id": "clip62",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfQ2J7wD-Fs/"
-    },
-    "platform": "instagram",
-    "thumb": "thumbs/clip62-temptress.jpg",
-    "title": "A knock at the door late at night.",
-    "url": "https://www.instagram.com/reel/DfQ2J7wD-Fs/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Woman reading a note warning her to stay silent as a figure in red walks past",
-    "category": "storytelling viral",
-    "date": "2026-11-02",
-    "desc": "Speak, and she'll never stop coming. 😱 She laughed it off… and then something in red walked right past her. Would YOU stay silent after reading that note?",
-    "duration": "0:20",
-    "genre": "Storytelling",
-    "id": "clip61",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfQCwafCav0/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip61-dontspeak.jpg",
-    "title": "She found a note with one terrifying rule: stay silent, and she may pass.",
-    "url": "https://www.instagram.com/reel/DfQCwafCav0/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Short Cake, a low-rider shelter dog, soaking up pats at a farmers market",
-    "category": "viral",
-    "date": "2026-11-02",
-    "desc": "This almost-four-year-old low-rider stole the show at the farmers market — crowds, noise, other dogs, nothing fazed her, and she soaked up every pat from her new little friends in pink. 💛",
-    "duration": "0:20",
-    "genre": "Animals",
-    "id": "clip60",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/DfQCtRXCaPt/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip60-shortcake.jpg",
-    "title": "Meet Short Cake! 🐾",
-    "url": "https://www.instagram.com/reel/DfQCtRXCaPt/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Rescued tiger cub Sherkhan playing with German Shepherd Mukhtar over a green ball",
-    "category": "viral",
-    "date": "2026-11-01",
-    "desc": "Rescued four-month-old Sherkhan, now in the care of Zemlya Praida (Pride Land) park, meets German Shepherd Mukhtar — and the two go straight for the same green ball.",
-    "duration": "0:13",
-    "genre": "Animals",
-    "id": "clip58",
-    "links": {
-      "facebook": "https://facebook.com/reel/1132187036024933/",
-      "instagram": "https://www.instagram.com/reel/DfOLCQUDMok/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip58-sherkhan.jpg",
-    "title": "A tiger cub and a shepherd walk into playtime. 🐯🐕",
-    "url": "https://facebook.com/reel/1132187036024933/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Woman alone in a jail corridor as the shadow on the floor grows eyes",
-    "category": "storytelling viral",
-    "date": "2026-11-01",
-    "desc": "In Andrew Jara's short film \"The Shadow\", a night alone in the corridors takes a turn when the shadow on the floor grows eyes — the first sighting, and only the beginning.",
-    "duration": "0:13",
-    "genre": "Storytelling",
-    "id": "clip57",
-    "links": {
-      "facebook": "https://facebook.com/reel/2093733841279164/",
-      "instagram": "https://www.instagram.com/reel/DfN6rkZDp-V/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip57-shadow.jpg",
-    "title": "She was alone in the jail. The floor was not empty. 👁️",
-    "url": "https://facebook.com/reel/2093733841279164/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Toddler Sam ordering his dad to clean the messy house",
-    "category": "viral",
-    "date": "2026-11-01",
-    "desc": "He came home to a messy house and a very clear order from the smallest person in charge: clean the house first.",
-    "duration": "0:13",
-    "genre": "Viral",
-    "id": "clip56",
-    "links": {
-      "facebook": "https://facebook.com/reel/1424976075959655/",
-      "instagram": "https://www.instagram.com/reel/DfNiQkRjHqR/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip56-sam.jpg",
-    "title": "Dada wanted a rest. Tiny boss Sam said no. 😂",
-    "url": "https://facebook.com/reel/1424976075959655/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Stray kitten at Chicago O'Hare airport with traveller Virgil Wiebe",
-    "category": "viral",
-    "date": "2026-11-01",
-    "desc": "At Chicago O'Hare, a stray kitten walked right up to traveller Virgil Wiebe — and instead of leaving her behind, he bought a $150 pet ticket and flew her home to Minnesota.",
-    "duration": "0:13",
-    "genre": "Animals",
-    "id": "clip55",
-    "links": {
-      "facebook": "https://facebook.com/reel/2306320476821511/",
-      "instagram": "https://www.instagram.com/reel/DfNiAmlDDI0/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip55-ohare.jpg",
-    "title": "A smoke break turned into a one-way ticket home. ✈️🐱",
-    "url": "https://facebook.com/reel/2306320476821511/"
-  },
-  {
-    "accent": "gold",
-    "alt": "New rescue horses stepping off the trailer at Colby's Crew Rescue",
-    "category": "viral",
-    "date": "2026-11-01",
-    "desc": "One by one, the new horses step off the trailer at Colby's Crew Rescue — checked in, watched over, and starting their next chapter.",
-    "duration": "0:13",
-    "genre": "Animals",
-    "id": "clip54",
-    "links": {
-      "facebook": "https://facebook.com/reel/1823911872222253/",
-      "instagram": "https://www.instagram.com/reel/DfM82mhjJ8Z/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip54-colby.jpg",
-    "title": "Fresh arrivals, straight into quarantine. 🐴",
-    "url": "https://facebook.com/reel/1823911872222253/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Two gas-station clerks on the overnight shift, staying calm under the store's one rule",
-    "category": "storytelling viral",
-    "date": "2026-10-31",
-    "desc": "Two clerks are stuck on the overnight shift at a 24-hour store, with six hours left on the clock. Their one rule is simple: never let anxiety show. Stay calm, stay happy, and you make it to morning. Our own retelling with original narration — not the original film.",
-    "duration": "0:15",
-    "genre": "Storytelling",
-    "id": "clip52",
-    "links": {
-      "facebook": "https://facebook.com/reel/1623538458622311/",
-      "instagram": "https://www.instagram.com/reel/DfLcgPTCbXG/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip52-remaincalm.jpg",
-    "title": "The scariest rule in horror? Just... stay calm.",
-    "url": "https://facebook.com/reel/1623538458622311/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Rescued grey kitten biting and playing happily",
-    "category": "viral",
-    "date": "2026-10-31",
-    "desc": "Not long ago this rescued kitten was weak and scared. Now he grabs, bites and plays — and play-biting like this is how tiny kittens practice hunting.",
-    "duration": "0:14",
-    "genre": "Animals",
-    "id": "clip53",
-    "links": {
-      "facebook": "https://facebook.com/reel/1123902163458904/",
-      "instagram": "https://www.instagram.com/reel/DfLVF0cDFLB/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip53-kitten.jpg",
-    "title": "That first tiny bite says it all.",
-    "url": "https://facebook.com/reel/1123902163458904/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Dog Berry standing on two legs and dancing in a kitchen",
-    "category": "viral",
-    "date": "2026-10-31",
-    "desc": "Berry stood up… and started dancing. This is Berry, and he did the whole viral dance trend standing on two legs — right in the middle of the kitchen. The original short landed on October 30, 2026 and pulled in over 70,000 views in a day.",
-    "duration": "0:13",
-    "genre": "Animals",
-    "id": "clip50",
-    "links": {
-      "facebook": "https://facebook.com/reel/2959808691031416/",
-      "instagram": "https://www.instagram.com/reel/DfK7jILiVXC/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip50-berry.jpg",
-    "title": "Berry stood up… and started dancing.",
-    "url": "https://facebook.com/reel/2959808691031416/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Shelter dog Koby on a beach outing with a volunteer after 100 days waiting",
-    "category": "viral",
-    "date": "2026-10-31",
-    "desc": "100 days waiting… and his owner never came. Meet Koby — a 4-year-old sweetheart who spent 100 days at the West Los Angeles Animal Shelter. He was held as a “possible owner” case, but his owner never showed up, so he became available for adoption or foster. One beach day out showed exactly who he is: a lap-loving, adventure-ready goofball. He is still waiting for a home today.",
-    "duration": "0:14",
-    "genre": "Animals",
-    "id": "clip49",
-    "links": {
-      "facebook": "https://facebook.com/reel/1467088698689873/",
-      "instagram": "https://www.instagram.com/reel/DfKmyg4jher/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip49-koby.jpg",
-    "title": "100 days waiting… and his owner never came.",
-    "url": "https://facebook.com/reel/1467088698689873/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Baby mule reunited with his mother after rescue",
-    "category": "viral",
-    "date": "2026-10-31",
-    "desc": "They tracked his mom down, reunited them safely, and with donors' help moved them both to quarantine. Now this little guy is back where he belongs, beside his mom.",
-    "duration": "0:15",
-    "genre": "Animals",
-    "id": "clip48",
-    "links": {
-      "facebook": "https://facebook.com/reel/1768545320932594/",
-      "instagram": "https://www.instagram.com/reel/DfKhTAxjhKo/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip48-colby.jpg",
-    "title": "This baby mule was separated from his mother — and rescuers refused to give up.",
-    "url": "https://facebook.com/reel/1768545320932594/"
-  },
-  {
-    "accent": "gold",
-    "alt": "White poodle in a pumpkin costume carrying a candy bucket on a Halloween porch",
-    "category": "viral",
-    "date": "2026-10-30",
-    "desc": "Pumpkin costume, rainbow ears, bucket full of treats — this standard poodle was mid trick-or-treat when a bat decoration dive-bombed him and the whole haul hit the porch.",
-    "duration": "0:10",
-    "genre": "Animals",
-    "id": "clip45",
-    "links": {
-      "facebook": "https://facebook.com/reel/1724040402575322/",
-      "instagram": "https://www.instagram.com/reel/DfIuF_cAzyq/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip45-poodle.jpg",
-    "title": "He was carrying his candy bucket like a pro — until the bat showed up.",
-    "url": "https://facebook.com/reel/1724040402575322/"
-  },
-  {
-    "accent": "violet",
-    "alt": "A man listening to his smart speaker's instructions",
-    "category": "storytelling viral",
-    "date": "2026-10-30",
-    "desc": "His smart speaker gave him instructions. He followed every one. Our own retelling with original narration — not the original film.",
-    "duration": "0:15",
-    "genre": "Storytelling",
-    "id": "clip41",
-    "links": {
-      "facebook": "https://facebook.com/reel/2334566686947681/",
-      "instagram": "https://www.instagram.com/reel/DfISzYjjGC7/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip41-alexa.jpg",
-    "title": "His smart speaker gave him instructions. He followed every one.",
-    "url": "https://facebook.com/reel/2334566686947681/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Brewers fans celebrating the franchise's first World Series title",
-    "category": "sports viral",
-    "date": "2026-10-30",
-    "desc": "57 years of waiting, decided by one final out in Tampa — Milwaukee's first-ever World Series title, seen through the fans.",
-    "duration": "0:14",
-    "genre": "Sports",
-    "id": "clip40",
-    "links": {
-      "facebook": "https://facebook.com/reel/28548864071479503/",
-      "instagram": "https://www.instagram.com/reel/DfI4tayjDfY/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip40-brewers.jpg",
-    "title": "57 years of waiting… decided by ONE final out in Tampa.",
-    "url": "https://facebook.com/reel/28548864071479503/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Floyd asleep on the couch as the phone rings with a frantic warning",
-    "category": "storytelling viral",
-    "date": "2026-10-30",
-    "desc": "A frantic call warns Floyd that someone is coming for him — and it does not sound like a joke. This is Mama Bear, Curry Barker's five-minute horror short from his channel, that's a bad idea, premiered October 29.",
-    "duration": "0:31",
-    "genre": "Storytelling",
-    "id": "clip44",
-    "links": {
-      "facebook": "https://facebook.com/reel/1447704817323802/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip44-mamabear.jpg",
-    "title": "He was asleep on the couch when the phone woke him up.",
-    "url": "https://facebook.com/reel/1447704817323802/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Woman listening in a bathroom stall after hearing crying from the next stall",
-    "category": "storytelling viral",
-    "date": "2026-10-30",
-    "desc": "She thought the bathroom was empty. Then someone started crying in the next stall. A young woman out for a run stops at a public bathroom that looks empty, then hears crying from another stall and freezes, listening to a cry from someone she cannot see. Ashlyn Khan wrote, directed and stars in this horror short. Not every cry for help is meant to be answered.",
-    "duration": "0:30",
-    "genre": "Storytelling",
-    "id": "clip42",
-    "links": {
-      "facebook": "https://facebook.com/reel/1126346326796857/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip42-areyouokay.jpg",
-    "title": "She thought the bathroom was empty. Then someone started crying in the next stall.",
-    "url": "https://facebook.com/reel/1126346326796857/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Shag the dog leading the walk through Williamsburg, Brooklyn",
-    "category": "viral",
-    "date": "2026-10-29",
-    "desc": "Andrea handed Shag the route in Williamsburg, Brooklyn — and he marched, nose up, past every corner like a dog with a plan. One confident turn later: the dog run, his favourite place on Earth. Her caption says it all: “he said trust me, i know a place.”",
-    "duration": "0:32",
-    "genre": "Animals",
-    "id": "clip39",
-    "links": {
-      "facebook": "https://facebook.com/reel/40762514743347925/",
-      "instagram": "https://www.instagram.com/reel/DfF0vaxDsqd/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip39-shag.jpg",
-    "title": "She let her dog lead the walk… and he knew exactly where he was going",
-    "url": "https://facebook.com/reel/40762514743347925/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Two German Shepherds at a shed door, and a tiny grey kitten held up in daylight",
-    "category": "viral",
-    "date": "2026-10-29",
-    "desc": "Two German Shepherds would not leave an old back shed alone — they kept sniffing and pawing at the base until their owner opened the door and found not one, but TWO tiny kittens tucked away inside. Both were lifted out gently, tucked into the pink carrier together, and handed to a local carer. Good nostrils save lives.",
-    "duration": "0:44",
-    "genre": "Animals",
-    "id": "clip35",
-    "links": {
-      "facebook": "https://facebook.com/reel/3946728538955456/",
-      "instagram": "https://www.instagram.com/reel/DfFcapIDC16/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip35-shepherds.jpg",
-    "title": "Two German Shepherds would NOT leave this shed alone — and good thing they didn't",
-    "url": "https://facebook.com/reel/3946728538955456/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Calico cat Aya settled on dog Lisa's chest, her chosen safe space",
-    "category": "viral",
-    "date": "2026-10-29",
-    "desc": "Aya, the calico cat, walked over to Lisa's bed, climbed in, and settled down with her head on Lisa's chest — while Lisa stayed still, calm and close. No training, no forcing, just trust. That is what a safe place looks like.",
-    "duration": "0:34",
-    "genre": "Animals",
-    "id": "clip34",
-    "links": {
-      "facebook": "https://facebook.com/reel/1641007037802459/",
-      "instagram": "https://www.instagram.com/reel/DfFYw3PjtSZ/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip34-aya.jpg",
-    "title": "Some safe places are chosen, not assigned",
-    "url": "https://facebook.com/reel/1641007037802459/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Orange cat Penny asleep face-buried in the bed",
-    "category": "viral",
-    "date": "2026-10-28",
-    "desc": "Penny is a 10… but she sleeps like this ALL the time. One minute she is wide awake, staring at the camera like she has somewhere important to be. The next she is curled into a loaf with her face buried in the bed, totally undisturbed.",
-    "duration": "0:48",
-    "genre": "Animals",
-    "id": "clip33",
-    "links": {
-      "facebook": "https://facebook.com/reel/1819630622417202/",
-      "instagram": "https://www.instagram.com/reel/DfEMrReE7ZF/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip33-penny.jpg",
-    "title": "Penny sleeps like this ALL the time",
-    "url": "https://facebook.com/reel/1819630622417202/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Border Collie Akari posing for a delivery proof photo",
-    "category": "viral",
-    "date": "2026-10-28",
-    "desc": "Akari took delivery duty VERY seriously. A driver dropped a package, snapped a photo for proof, and Akari turned it into a portrait — one blue eye, one brown eye, and a stare that says this package is now under new management.",
-    "duration": "0:40",
-    "genre": "Animals",
-    "id": "clip32",
-    "links": {
-      "facebook": "https://facebook.com/reel/2254484331786614/",
-      "instagram": "https://www.instagram.com/reel/DfDmN4jDx_u/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip32-akari.jpg",
-    "title": "Akari took delivery duty VERY seriously",
-    "url": "https://facebook.com/reel/2254484331786614/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Rescue dog Kurtis winking at his owner",
-    "category": "viral",
-    "date": "2026-10-28",
-    "desc": "Kurtis looked his owner dead in the eye... and dropped a wink. This adopted New York City pup had just turned three when his owner caught this quiet moment on the bed — one ear up, one floppy ear, and a look that says he knows exactly how charming he is.",
-    "duration": "0:37",
-    "genre": "Animals",
-    "id": "clip31",
-    "links": {
-      "facebook": "https://facebook.com/reel/1428814979451170/",
-      "instagram": "https://www.instagram.com/reel/DfDmnExjzDo/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip31-kurtis.jpg",
-    "title": "Kurtis dropped a wink — dead in the eye",
-    "url": "https://facebook.com/reel/1428814979451170/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Rescue puppy Cowboy celebrating a new blanket with zoomies",
-    "category": "viral",
-    "date": "2026-10-28",
-    "desc": "Cowboy got a new blankie... and needed a WHOLE room to celebrate it. This rescue puppy snuggled up with his big brother Cactus, heard one question — are you guys enjoying your new blankie? — and instantly lost it: bouncing off the walls and sliding under the couch.",
-    "duration": "0:38",
-    "genre": "Animals",
-    "id": "clip29",
-    "links": {
-      "facebook": "https://facebook.com/reel/939661132348562/",
-      "instagram": "https://www.instagram.com/reel/DfC4FfdDNne/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip29-cowboy.jpg",
-    "title": "Cowboy needed a WHOLE room to celebrate a new blankie",
-    "url": "https://facebook.com/reel/939661132348562/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Louie the puppy and Stella the cat in their Halloween skit",
-    "category": "viral",
-    "date": "2026-10-27",
-    "desc": "Louie the puppy is planning a Halloween party — but every time he explains it, his cat sister Stella makes it sound like a murder. A dubbed Halloween skit from @hi_louiehere that had the internet howling.",
-    "duration": "0:30",
-    "genre": "Comedy",
-    "id": "clip28",
-    "links": {
-      "facebook": "https://facebook.com/reel/1633380218328405/",
-      "instagram": "https://www.instagram.com/reel/DfBbjl0DlXq/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip28-louie-stella.jpg",
-    "title": "He planned a Halloween party — his cat sister made it sound like a murder",
-    "url": "https://facebook.com/reel/1633380218328405/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Woman in a banana costume inside The Moderne Bar",
-    "category": "viral",
-    "date": "2026-10-27",
-    "desc": "A car crashed into The Moderne Bar in Orlando — and a woman in a banana costume calmly walked in to report it like it was just another Tuesday. The bar's own security clip, and the calmest crash report ever filmed.",
-    "duration": "0:44",
-    "genre": "Comedy",
-    "id": "clip25",
-    "links": {
-      "facebook": "https://facebook.com/reel/1661873568848449/",
-      "instagram": "https://www.instagram.com/reel/DfAk4Gajt08/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip25-banana.jpg",
-    "title": "A woman in a banana costume calmly reported a crash into the bar",
-    "url": "https://facebook.com/reel/1661873568848449/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Orange cat Frito turning back at the door in the rain",
-    "category": "viral",
-    "date": "2026-10-27",
-    "desc": "Frito the orange cat stepped out for a taste of freedom — took one step, felt the rain, and went straight back inside. Freedom lasted about one second. From @zero.theshepherd.",
-    "duration": "0:34",
-    "genre": "Animals",
-    "id": "clip23",
-    "links": {
-      "facebook": "https://facebook.com/reel/1148393027864774/",
-      "instagram": "https://www.instagram.com/reel/DfAik5ijnkU/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip23-frito.jpg",
-    "title": "Frito quit freedom after ONE step — it was raining",
-    "url": "https://facebook.com/reel/1148393027864774/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Newlyweds Kara and West Webb pulled over by a police officer minutes after their wedding",
-    "category": "viral",
-    "date": "2026-10-26",
-    "desc": "Kara Lewis Webb and West Webb had just left their wedding at Ramble Creek in Athens, Tennessee, when they got pulled over on the way to their honeymoon. The officer asked about an unpaid California speeding ticket — then said he had a warrant for West's arrest. Kara's heart sank… until the punchline: “I got jokes.” The clip has passed 9 million views on Instagram. What a wedding-night story.",
-    "duration": "0:51",
-    "genre": "Comedy",
-    "id": "clip21",
-    "links": {
-      "facebook": "https://facebook.com/reel/1557514069464556/",
-      "instagram": "https://www.instagram.com/reel/De-k0SJDtUe/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip21-wedding-cop.jpg",
-    "title": "Married for FIVE minutes… then the cop lights came on",
-    "url": "https://facebook.com/reel/1557514069464556/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Ray and Kai Cenat recreating their first meeting outside a 7-Eleven in Japan",
-    "category": "viral",
-    "date": "2026-10-26",
-    "desc": "Three years ago, Ray was just a fan who tracked Kai Cenat down at a 7-Eleven in Japan. On October 21, they went back to that exact same store and recreated the moment that started it all. From \"This is my dream!\" to best friends.",
-    "duration": "0:41",
-    "genre": "Comedy",
-    "id": "clip20",
-    "links": {
-      "facebook": "https://facebook.com/reel/4397689377150135/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip20-kai-ray.jpg",
-    "title": "He tracked Kai Cenat down at a 7-Eleven — 3 years later, they went back",
-    "url": "https://facebook.com/reel/4397689377150135/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Sal Frelick fans celebrating in the stands at American Family Field",
-    "category": "sports viral",
-    "date": "2026-10-26",
-    "desc": "Milwaukee was down 4-0 in the first inning — then Frelick launched a 408-foot homer in the sixth off Ian Seymour, his first homer in three months, to tie World Series Game 2 at 4-4. Cooper Pratt won it in the seventh, 5-4, for a 2-0 series lead. And this is the best part: this isn't the TV angle. This is fans inside American Family Field losing it — towels waving, drinks in the air.",
-    "duration": "0:55",
-    "genre": "Sports",
-    "id": "clip19",
-    "links": {
-      "facebook": "https://facebook.com/reel/1664120048762753/",
-      "instagram": "https://www.instagram.com/reel/De9--1lj8b4/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip19-frelick.jpg",
-    "title": "Sal Frelick. Game 2. Tied at 4-4.",
-    "url": "https://facebook.com/reel/1664120048762753/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Wounded jaguar clinging to a makeshift float towed to shore on the Rio Negro",
-    "category": "viral",
-    "date": "2026-10-26",
-    "desc": "On October 1, a wounded jaguar was spotted struggling in Brazil's Rio Negro near Manaus. Amazonas environmental police slid it a makeshift float — and it wrapped its paws around it and rode it all the way to shore. Vets later found more than 30 pieces of lead shot in its face, head, and neck. It went straight into veterinary care.",
-    "duration": "0:52",
-    "genre": "Animals",
-    "id": "clip22",
-    "links": {
-      "facebook": "https://facebook.com/reel/1111522538473619/",
-      "instagram": "https://www.instagram.com/reel/De9-JdQD5Ia/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip22-jaguar.jpg",
-    "title": "It held on — a jaguar's ride to shore",
-    "url": "https://facebook.com/reel/1111522538473619/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Saif Ali Khan in the Gowardhan ghee ad, a fake Live revealing a wall of ghee jars",
-    "category": "viral",
-    "date": "2026-10-26",
-    "desc": "Saif asked for ghee on KBC… and the internet NEVER let it go. Gowardhan turned the joke into an ad on Saif's own Instagram: a fake Live, fans asking about the ghee, and then the camera slips, revealing a whole wall of ghee jars. His response? “Stop asking me for the ghee.”",
-    "duration": "0:51",
-    "genre": "Comedy",
-    "id": "clip17",
-    "links": {
-      "facebook": "https://facebook.com/reel/961792906589250/",
-      "instagram": "https://www.instagram.com/reel/De9-IWyD8m0/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip17-saif-ghee.jpg",
-    "title": "Saif asked for ghee… and the internet NEVER let it go",
-    "url": "https://facebook.com/reel/961792906589250/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Voxel the robot butler watering a bonsai plant",
-    "category": "viral",
-    "date": "2026-10-25",
-    "desc": "Meet Voxel, the home robot from New York startup Tuesday Labs. It tidies your home, finds the things you lose, fetches what you ask for and even waters your plants — with movements choreographed by Pixar animators. First run: just 999 units at around $20,000.",
-    "duration": "0:50",
-    "genre": "Viral",
-    "id": "clip16",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De8HiUnglVD/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip16-voxel.jpg",
-    "title": "A robot butler with NO head — its face is in its belly",
-    "url": "https://www.instagram.com/reel/De8HiUnglVD/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "The tiny house Brent's son secretly built on the roof",
-    "category": "storytelling viral",
-    "date": "2026-10-25",
-    "desc": "Brent climbed up to his own roof and found a full tiny house his son had secretly built up there — proper walls, windows, a rug, a chair, even a TV inside for game day. The tour passed 10 million views, and honestly? The real question is how long it sat up there before he noticed.",
-    "duration": "0:32",
-    "genre": "Story · Comedy",
-    "id": "clip15",
-    "links": {
-      "facebook": "https://facebook.com/reel/1465208255496583/",
-      "instagram": "https://www.instagram.com/reel/De7ffUGjCvP/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip15-brent.jpg",
-    "title": "His son built an entire house on the roof",
-    "url": "https://facebook.com/reel/1465208255496583/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Conan O'Brien on SubwayTakes",
-    "category": "viral",
-    "date": "2026-10-24",
-    "desc": "On SubwayTakes with Kareem Rahma, a total stranger sat down next to Conan O'Brien on the subway — and the improv that followed topped the Internet Recap at number one. Conan commits to the bit like only Conan can.",
-    "duration": "0:50",
-    "genre": "Comedy",
-    "id": "clip14",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De5b7-rjNqT/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip14-conan.jpg",
-    "title": "Conan O'Brien just met his subway ex-wife",
-    "url": "https://www.instagram.com/reel/De5b7-rjNqT/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Security-camera still from the Newburgh brewery at night",
-    "category": "storytelling viral",
-    "date": "2026-10-24",
-    "desc": "The kitchen was locked. The brewery was empty. Yet this 1850s Newburgh brewery's own security cameras caught a face shape in the dark, pots and trays moved on their own, and two knives simply vanished. A true scary story, told from the brewery's own stills.",
-    "duration": "0:50",
-    "genre": "Storytelling",
-    "id": "clip13",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De5NfhiDA8S/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip13-newburgh.jpg",
-    "title": "The brewery camera caught a face in the dark",
-    "url": "https://www.instagram.com/reel/De5NfhiDA8S/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Dan McFarland at the gas station air pump",
-    "category": "viral",
-    "date": "2026-10-24",
-    "desc": "Dan McFarland pulls up to the gas station, sees that air now costs $3.00, and delivers the one-word dad joke the whole internet heard coming — INFLATION. Some jokes are so obvious they loop back to genius.",
-    "duration": "0:43",
-    "genre": "Comedy",
-    "id": "clip12",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De41XjrDm_y/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip12-mcfarlands.jpg",
-    "title": "Air used to be free. Now it's $3. You know why?",
-    "url": "https://www.instagram.com/reel/De41XjrDm_y/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Joe Mele and his dad in their duo trend video",
-    "category": "viral",
-    "date": "2026-10-24",
-    "desc": "Joe Mele drops a line on his dad that he's never said before — and his dad's reaction is the whole video. The father-son duo the internet can't get enough of, doing what they do best.",
-    "duration": "0:30",
-    "genre": "Comedy",
-    "id": "clip11",
-    "links": {
-      "facebook": "https://facebook.com/reel/1109646315113733/",
-      "instagram": "https://www.instagram.com/reel/De4oArcDMsM/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip11-joemele.jpg",
-    "title": "He said 'I never told you this before…' — then THIS happened",
-    "url": "https://facebook.com/reel/1109646315113733/"
-  },
-  {
-    "accent": "violet",
-    "alt": "The dad-son no-dialogue skit",
-    "category": "viral",
-    "date": "2026-10-24",
-    "desc": "Dad woke up and chose violence, ready for a full argument. His son calmly gave him absolutely no reason — and the whole fight deflated on the spot. A no-dialogue dad-son skit carried entirely by the captions.",
-    "duration": "0:30",
-    "genre": "Comedy",
-    "id": "clip10",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De4f37ljEmi/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip10-supereeego.jpg",
-    "title": "Dad wanted an argument — his son gave him NOTHING",
-    "url": "https://www.instagram.com/reel/De4f37ljEmi/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Global Esports farewell video still",
-    "category": "esports viral",
-    "date": "2026-10-23",
-    "desc": "Global Esports walked away from Valorant at its peak — and the founder's farewell video left the entire Pacific scene stunned. Why would a team leave while it's winning? This is what he said, and what it means.",
-    "duration": "0:40",
-    "genre": "Esports",
-    "id": "clip9",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De2pNcYjkyz/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip9-ge.jpg",
-    "title": "The goodbye that stunned Valorant's Pacific scene",
-    "url": "https://www.instagram.com/reel/De2pNcYjkyz/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Becky Strasburger's '90s diet-culture sketch",
-    "category": "viral",
-    "date": "2026-10-23",
-    "desc": "Comedian Becky Strasburger nails '90s diet culture — the mom wig, the SnackWell's, the Slim-Fast, the whole grocery cart of good intentions. If you lived it, you'll feel every second of this sketch.",
-    "duration": "0:43",
-    "genre": "Comedy",
-    "id": "clip5",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De2Qm0DjpAw/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip5-diet.jpg",
-    "title": "In the '90s, a diet was not a diet unless the cart looked like this",
-    "url": "https://www.instagram.com/reel/De2Qm0DjpAw/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Samarth Jurel chewing coconut in the loop clip",
-    "category": "viral",
-    "date": "2026-10-23",
-    "desc": "Actor Samarth Jurel, stuck in a loop, chewing coconut — forever. A tiny, perfectly relatable bit that blew up and spawned a whole trend of recreations. Once you see the loop, you can't unsee it.",
-    "duration": "0:41",
-    "genre": "Comedy",
-    "id": "clip4",
-    "links": {
-      "instagram": "https://www.instagram.com/reel/De2BVWzD68k/"
-    },
-    "platform": "Instagram",
-    "thumb": "thumbs/clip4-coconut.jpg",
-    "title": "Coconut does not end. It just pauses between chews.",
-    "url": "https://www.instagram.com/reel/De2BVWzD68k/"
-  },
-  {
-    "accent": "violet",
-    "alt": "Source video thumbnail — the grand final stage moment everyone misread",
-    "category": "esports viral",
-    "date": "2026-10-23",
-    "desc": "One gesture on stage at an esports grand final, a flood of outrage online, and an entire scene arguing — until the real story came out. It was never aimed at a rival at all; it was friendly banter between teammates.",
-    "duration": "0:42",
-    "genre": "Esports",
-    "id": "clip3",
-    "links": {
-      "facebook": "https://facebook.com/reel/1803921487400939/",
-      "instagram": "https://www.instagram.com/reel/De18hFjj0lb/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip3-s8ul.jpg",
-    "title": "One gesture at the grand final everyone misread",
-    "url": "https://facebook.com/reel/1803921487400939/"
-  },
-  {
-    "accent": "gold",
-    "alt": "Source video thumbnail — the baby monkey with his favorite plush toy",
-    "category": "storytelling viral",
-    "date": "2026-10-22",
-    "desc": "A baby monkey, separated from his mother, comforts himself by cuddling a plush orangutan everywhere he goes — eating, exploring, even sleeping. The internet fell for him instantly — this is why.",
-    "duration": "0:39",
-    "genre": "Storytelling",
-    "id": "clip2",
-    "links": {
-      "facebook": "https://facebook.com/reel/1993823901293477/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip1-punch-monkey.jpg",
-    "title": "The baby monkey and his favorite plush",
-    "url": "https://facebook.com/reel/1993823901293477/"
-  },
-  {
-    "accent": "cyan",
-    "alt": "Comedian Lloyd Griffith heading a ball at Brentford",
-    "category": "sports storytelling viral",
-    "date": "2026-10-22",
-    "desc": "A lifelong fan finally lives his childhood dream — heading a ball in front of a packed stadium. Thirty-six years of waiting, over in one perfect second, and the celebration says everything.",
-    "duration": "0:31",
-    "genre": "Sports · Story",
-    "id": "clip1",
-    "links": {
-      "facebook": "https://facebook.com/reel/1883707809455642/",
-      "instagram": "https://www.instagram.com/reel/De0W-PHjq2b/"
-    },
-    "platform": "Facebook",
-    "thumb": "thumbs/clip2-griffith.jpg",
-    "title": "The 36-year header — Brentford vs Liverpool",
-    "url": "https://facebook.com/reel/1883707809455642/"
+ },
+ {
+  "id": "m7",
+  "title": "One more rep changes everything. 🏋️🔥",
+  "desc": "When did you last push past the rep you wanted to quit on?",
+  "date": "2026-11-06",
+  "duration": "0:24",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m7-one-more-rep.jpg",
+  "url": "https://www.youtube.com/shorts/0jVbZwxhpz0",
+  "platform": "youtube",
+  "alt": "Athlete grinding through a heavy barbell squat in a dark gym",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/2136109910346680",
+   "instagram": "https://www.instagram.com/reel/DfajbuLDHaA/",
+   "youtube": "https://www.youtube.com/shorts/0jVbZwxhpz0"
   }
+ },
+ {
+  "id": "b2",
+  "title": "Chase the sunrise, own the day. 🌅",
+  "desc": "Do you wake up before the sun?",
+  "date": "2026-11-06",
+  "duration": "0:14",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/b2-chase-the-sunrise.jpg",
+  "url": "https://www.youtube.com/shorts/B3OzTDmcUrQ",
+  "platform": "youtube",
+  "alt": "Athlete tying running shoes on a hilltop at sunrise",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1623074022161835",
+   "youtube": "https://www.youtube.com/shorts/B3OzTDmcUrQ"
+  }
+ },
+ {
+  "id": "m6",
+  "title": "Your comfort zone is a coffin. ⚰️🔥",
+  "desc": "What's one thing you're avoiding that you need to face today?",
+  "date": "2026-11-06",
+  "duration": "0:24",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m6-comfort-zone.jpg",
+  "url": "https://www.youtube.com/shorts/6jt9R60qpm0",
+  "platform": "youtube",
+  "alt": "Athlete standing beside a barbell in a dark blue-lit gym",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/945575385084657",
+   "instagram": "https://www.instagram.com/reel/DfaJ5h1CaND/",
+   "youtube": "https://www.youtube.com/shorts/6jt9R60qpm0"
+  }
+ },
+ {
+  "id": "b1",
+  "title": "Nobody cares about your story — only your results. 💪",
+  "desc": "Are you working hard enough today?",
+  "date": "2026-11-06",
+  "duration": "0:14",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/b1-nobody-cares.jpg",
+  "url": "https://www.youtube.com/shorts/6xRrqKBKF5o",
+  "platform": "youtube",
+  "alt": "Athlete training outdoors at sunrise",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/2443335609740423",
+   "instagram": "https://www.instagram.com/reel/DfZ9UleAisQ/",
+   "youtube": "https://www.youtube.com/shorts/6xRrqKBKF5o"
+  }
+ },
+ {
+  "id": "m5",
+  "title": "Win the morning, win the day. 🌅💪",
+  "desc": "What time did you win your morning today?",
+  "date": "2026-11-06",
+  "duration": "0:24",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m5-morning.jpg",
+  "url": "https://www.youtube.com/shorts/BuabGW3urxo",
+  "platform": "youtube",
+  "alt": "Athlete training in a dark gym at dawn",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/2007260753278796",
+   "instagram": "https://www.instagram.com/reel/DfaGCTmCay3/",
+   "youtube": "https://www.youtube.com/shorts/BuabGW3urxo"
+  }
+ },
+ {
+  "id": "m4",
+  "title": "Pain is the tuition. Success is the degree. 🎓🔥",
+  "desc": "What did your hardest lesson teach you?",
+  "date": "2026-11-05",
+  "duration": "0:21",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m4-pain.jpg",
+  "url": "https://www.youtube.com/shorts/jBec3zIzZcE",
+  "platform": "youtube",
+  "alt": "Athlete pushing through a hard workout in a dark gym",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1478559797526514",
+   "instagram": "https://www.instagram.com/reel/DfYcDeFDkVN/",
+   "youtube": "https://www.youtube.com/shorts/jBec3zIzZcE"
+  }
+ },
+ {
+  "id": "m3",
+  "title": "Disappear for 90 days. Come back unrecognizable. 🥷🔥",
+  "desc": "Could you vanish for 90 days and just grind?",
+  "date": "2026-11-05",
+  "duration": "0:19",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m3-disappear.jpg",
+  "url": "https://www.youtube.com/shorts/WRBpZblbk3Q",
+  "platform": "youtube",
+  "alt": "Lone athlete training in the dark",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1149436934262526",
+   "instagram": "https://www.instagram.com/reel/DfYN0F-JiXA/",
+   "youtube": "https://www.youtube.com/shorts/WRBpZblbk3Q"
+  }
+ },
+ {
+  "id": "m2",
+  "title": "Your excuses are expensive — and your future is paying for them. 💸🔥",
+  "desc": "What's the one excuse you're killing today?",
+  "date": "2026-11-05",
+  "duration": "0:23",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m2-excuses.jpg",
+  "url": "https://www.youtube.com/shorts/6y13EHhRFtQ",
+  "platform": "youtube",
+  "alt": "Athlete training hard in a dark gym",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/2164323527625989",
+   "instagram": "https://www.instagram.com/reel/DfX7Es3k1ec/",
+   "youtube": "https://www.youtube.com/shorts/6y13EHhRFtQ"
+  }
+ },
+ {
+  "id": "m1",
+  "title": "Motivation is a liar. Discipline is the truth. 🔥",
+  "desc": "Be honest — are you running on motivation or discipline?",
+  "date": "2026-11-05",
+  "duration": "0:20",
+  "genre": "Motivation",
+  "category": "motivation",
+  "accent": "gold",
+  "thumb": "thumbs/m1-discipline.jpg",
+  "url": "https://www.youtube.com/shorts/qL6sSmYJ__8",
+  "platform": "youtube",
+  "alt": "Muscular athlete training in a dark blue-lit gym",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1768273254253419",
+   "instagram": "https://www.instagram.com/reel/DfX7EJ9E-i7/",
+   "youtube": "https://www.youtube.com/shorts/qL6sSmYJ__8"
+  }
+ },
+ {
+  "id": "clip79",
+  "title": "Her imaginary friend showed up on the doorbell camera.",
+  "desc": "Nobody in the house could see him. 👻",
+  "date": "2026-11-05",
+  "duration": "0:44",
+  "genre": "Storytelling",
+  "category": "storytelling viral",
+  "accent": "violet",
+  "thumb": "thumbs/clip79-thunk.jpg",
+  "url": "https://www.instagram.com/reel/DfX1zTStjY1/",
+  "platform": "instagram",
+  "alt": "Her imaginary friend showed up on the doorbell camera",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1694450758683420",
+   "instagram": "https://www.instagram.com/reel/DfX1zTStjY1/"
+  }
+ },
+ {
+  "accent": "violet",
+  "alt": "McStuffins, the dog returned three times for being too energetic",
+  "category": "storytelling viral",
+  "date": "2026-11-04",
+  "desc": "Would you drive six hours for a dog like McStuffins?",
+  "duration": "0:36",
+  "genre": "Storytelling",
+  "id": "clip76",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/4624892057765941",
+   "instagram": "https://www.instagram.com/reel/DfXgXhkj2hg/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip76-mcstuffins.jpg",
+  "title": "Returned three times for being 'too energetic.' Then a stranger who loved her videos drove six hours just to meet her. 🐾❤️",
+  "url": "https://www.instagram.com/reel/DfXgXhkj2hg/"
+ },
+ {
+  "accent": "violet",
+  "alt": "A housewarming in a brand-new home",
+  "category": "storytelling viral",
+  "date": "2026-11-04",
+  "desc": "Would you stay the night in a house with a curse on it?",
+  "duration": "0:38",
+  "genre": "Storytelling",
+  "id": "clip75",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/2107683399866608",
+   "instagram": "https://www.instagram.com/reel/DfVwq9gDnMw/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip75-hollowing.jpg",
+  "title": "A housewarming in October. A brand-new home. And then someone said the words that changed the whole night… 👻",
+  "url": "https://www.instagram.com/reel/DfVwq9gDnMw/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Short Cake, a low-rider shelter dog in an adopt-me vest, on a leash at a farmers market",
+  "category": "viral",
+  "date": "2026-11-04",
+  "desc": "Then the shelter took her to the farmers market — and Short Cake owned it. 🐾❤️",
+  "duration": "0:34",
+  "genre": "Animals",
+  "id": "clip74",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1157973693233354",
+   "instagram": "https://www.instagram.com/reel/DfVQ8bQjyCC/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip74-shortcake.jpg",
+  "title": "She lost her home when her owner had nowhere left to go.",
+  "url": "https://www.instagram.com/reel/DfVQ8bQjyCC/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Dad trying to keep the house spotless for Diwali while his son creates chaos at home",
+  "category": "viral",
+  "date": "2026-11-04",
+  "desc": "His son had other plans. 😂🧹",
+  "duration": "0:36",
+  "genre": "Viral",
+  "id": "clip73",
+  "links": {
+   "facebook": "https://www.facebook.com/reel/1883848512786351",
+   "instagram": "https://www.instagram.com/reel/DfU_ytPEz2l/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip73-son-chaos.jpg",
+  "title": "Dad wanted a spotless house for Diwali.",
+  "url": "https://www.instagram.com/reel/DfU_ytPEz2l/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Berry the dog standing on two legs and dancing to a viral trend",
+  "category": "viral",
+  "date": "2026-11-04",
+  "desc": "Two legs, full routine, and he even argued with the camera. 😂🐶💃",
+  "duration": "0:20",
+  "genre": "Animals",
+  "id": "clip72",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfU12YfDvEA/",
+   "facebook": "https://www.facebook.com/reel/1128477203435834"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip72-berry.jpg",
+  "title": "He heard the viral dance trend — and refused to sit this one out.",
+  "url": "https://www.instagram.com/reel/DfU12YfDvEA/"
+ },
+ {
+  "accent": "gold",
+  "alt": "A rescue volunteer kneels beside dog travel crates before Roman's ride home",
+  "category": "viral",
+  "date": "2026-11-03",
+  "desc": "Then one video changed everything — and today, he's home. 🐾❤️",
+  "duration": "0:20",
+  "genre": "Animals",
+  "id": "clip69",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfTVvYkk1Dn/",
+   "facebook": "https://www.facebook.com/reel/1472044681569400"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip69-roman-freedom.jpg",
+  "title": "Roman waited at his kennel door for a family that never came back. 💔",
+  "url": "https://www.instagram.com/reel/DfTVvYkk1Dn/"
+ },
+ {
+  "accent": "violet",
+  "alt": "A smiling woman in a witch costume hands Halloween candy to costumed trick-or-treaters at her door",
+  "category": "storytelling viral",
+  "date": "2026-11-03",
+  "desc": "A scary retelling of ACMofficial's short horror film \"Trick or Treat.\"",
+  "duration": "0:20",
+  "genre": "Storytelling",
+  "id": "clip68",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfTEJeaDmZV/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip68-trick-or-treat.jpg",
+  "title": "🎃 She answers the door smiling in her witch costume — but the radio inside hints this Halloween night is not what it seems.",
+  "url": "https://www.instagram.com/reel/DfTEJeaDmZV/"
+ },
+ {
+  "accent": "violet",
+  "alt": "An elderly passenger reflected in a night bus mirror above empty seats",
+  "category": "storytelling viral",
+  "date": "2026-11-03",
+  "desc": "Night driver Tom keeps finding one extra passenger on his counter — every run, for years — then a paper transfer dated forty years ago. Our own scary retelling of Part 2 of the passenger who never gets off.",
+  "duration": "0:20",
+  "genre": "Storytelling",
+  "id": "clip67",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfStjNQDnIw/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip67-passenger.jpg",
+  "title": "Tom's last seat is empty. His mirror says otherwise. 🚌👻",
+  "url": "https://www.instagram.com/reel/DfStjNQDnIw/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Same dad, two teenagers — and two VERY different sets of rules. 😂",
+  "category": "viral",
+  "date": "2026-11-03",
+  "desc": "Sarah Elizabeth Hyde plays all three characters in this Chad Daniels comedy: for her 14-year-old daughter, a party means keeping her water bottle close and not running into the woods with four boys — but for her 18-year-old son, the same warning ends with him looking awesome.",
+  "duration": "0:20",
+  "genre": "Viral",
+  "id": "clip66",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfSa_LijLHB/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip66-chad-daniels.jpg",
+  "title": "Same dad, two teenagers — and two VERY different sets of rules. 😂",
+  "url": "https://www.instagram.com/reel/DfSa_LijLHB/"
+ },
+ {
+  "accent": "gold",
+  "alt": "He grabbed the camera and became a YouTuber on the spot 😂 No studio, no script — just pure confidence and a garden vlog!",
+  "category": "viral",
+  "date": "2026-11-03",
+  "desc": "Follow VyroMoments for your daily viral fix ❤️\nWould you subscribe to his channel? Tell us below! 👇",
+  "duration": "0:20",
+  "genre": "Viral",
+  "id": "clip65",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfSWpdcE-ra/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip65-son-youtuber.jpg",
+  "title": "He grabbed the camera and became a YouTuber on the spot 😂 No studio, no script — just pure confidence and a garden vlog!",
+  "url": "https://www.instagram.com/reel/DfSWpdcE-ra/"
+ },
+ {
+  "accent": "gold",
+  "alt": "A school bus full of dogs in Halloween costumes? Yes, please. 🐶🚌",
+  "category": "viral",
+  "date": "2026-11-02",
+  "desc": "In Calgary, Denzel Morrison quit his other job to drive this bus full-time. His parents ran a dog rescue, and in 2020 he started Ruff and Puff — a bus that picks pups up at home and takes them to a private park to play.",
+  "duration": "0:20",
+  "genre": "Animals",
+  "id": "clip64",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfQ0WgOD9EC/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip64-dogbus.jpg",
+  "title": "A school bus full of dogs in Halloween costumes? Yes, please. 🐶🚌",
+  "url": "https://www.instagram.com/reel/DfQ0WgOD9EC/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Dezzi the Dalmatian, a shelter rescue dog, on his way to a new home",
+  "category": "viral",
+  "date": "2026-11-02",
+  "desc": "This Dalmatian was found roaming the streets of Philadelphia, and by his fourth day in the shelter he was starting to decline. Rachel went to see him every single day, for hours, just to play — and then a couple drove an hour to meet him and took him home.",
+  "duration": "0:20",
+  "genre": "Animals",
+  "id": "clip63",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfQfs76j_XI/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip63-dezzi.jpg",
+  "title": "Dezzi had zero interest… until one person refused to give up on him. 🐾",
+  "url": "https://www.instagram.com/reel/DfQfs76j_XI/"
+ },
+ {
+  "accent": "violet",
+  "alt": "A knock at the door late at night. He opens it… and lets a stranger step inside.",
+  "category": "storytelling viral",
+  "date": "2026-11-02",
+  "desc": "He opens it… and lets a stranger step inside. 😱 This is the setup of Temptress, A Visualz's Halloween horror short — where desire turns into a trap.",
+  "duration": "0:20",
+  "genre": "Storytelling",
+  "id": "clip62",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfQ2J7wD-Fs/"
+  },
+  "platform": "instagram",
+  "thumb": "thumbs/clip62-temptress.jpg",
+  "title": "A knock at the door late at night.",
+  "url": "https://www.instagram.com/reel/DfQ2J7wD-Fs/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Woman reading a note warning her to stay silent as a figure in red walks past",
+  "category": "storytelling viral",
+  "date": "2026-11-02",
+  "desc": "Speak, and she'll never stop coming. 😱 She laughed it off… and then something in red walked right past her. Would YOU stay silent after reading that note?",
+  "duration": "0:20",
+  "genre": "Storytelling",
+  "id": "clip61",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfQCwafCav0/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip61-dontspeak.jpg",
+  "title": "She found a note with one terrifying rule: stay silent, and she may pass.",
+  "url": "https://www.instagram.com/reel/DfQCwafCav0/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Short Cake, a low-rider shelter dog, soaking up pats at a farmers market",
+  "category": "viral",
+  "date": "2026-11-02",
+  "desc": "This almost-four-year-old low-rider stole the show at the farmers market — crowds, noise, other dogs, nothing fazed her, and she soaked up every pat from her new little friends in pink. 💛",
+  "duration": "0:20",
+  "genre": "Animals",
+  "id": "clip60",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/DfQCtRXCaPt/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip60-shortcake.jpg",
+  "title": "Meet Short Cake! 🐾",
+  "url": "https://www.instagram.com/reel/DfQCtRXCaPt/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Rescued tiger cub Sherkhan playing with German Shepherd Mukhtar over a green ball",
+  "category": "viral",
+  "date": "2026-11-01",
+  "desc": "Rescued four-month-old Sherkhan, now in the care of Zemlya Praida (Pride Land) park, meets German Shepherd Mukhtar — and the two go straight for the same green ball.",
+  "duration": "0:13",
+  "genre": "Animals",
+  "id": "clip58",
+  "links": {
+   "facebook": "https://facebook.com/reel/1132187036024933/",
+   "instagram": "https://www.instagram.com/reel/DfOLCQUDMok/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip58-sherkhan.jpg",
+  "title": "A tiger cub and a shepherd walk into playtime. 🐯🐕",
+  "url": "https://facebook.com/reel/1132187036024933/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Woman alone in a jail corridor as the shadow on the floor grows eyes",
+  "category": "storytelling viral",
+  "date": "2026-11-01",
+  "desc": "In Andrew Jara's short film \"The Shadow\", a night alone in the corridors takes a turn when the shadow on the floor grows eyes — the first sighting, and only the beginning.",
+  "duration": "0:13",
+  "genre": "Storytelling",
+  "id": "clip57",
+  "links": {
+   "facebook": "https://facebook.com/reel/2093733841279164/",
+   "instagram": "https://www.instagram.com/reel/DfN6rkZDp-V/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip57-shadow.jpg",
+  "title": "She was alone in the jail. The floor was not empty. 👁️",
+  "url": "https://facebook.com/reel/2093733841279164/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Toddler Sam ordering his dad to clean the messy house",
+  "category": "viral",
+  "date": "2026-11-01",
+  "desc": "He came home to a messy house and a very clear order from the smallest person in charge: clean the house first.",
+  "duration": "0:13",
+  "genre": "Viral",
+  "id": "clip56",
+  "links": {
+   "facebook": "https://facebook.com/reel/1424976075959655/",
+   "instagram": "https://www.instagram.com/reel/DfNiQkRjHqR/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip56-sam.jpg",
+  "title": "Dada wanted a rest. Tiny boss Sam said no. 😂",
+  "url": "https://facebook.com/reel/1424976075959655/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Stray kitten at Chicago O'Hare airport with traveller Virgil Wiebe",
+  "category": "viral",
+  "date": "2026-11-01",
+  "desc": "At Chicago O'Hare, a stray kitten walked right up to traveller Virgil Wiebe — and instead of leaving her behind, he bought a $150 pet ticket and flew her home to Minnesota.",
+  "duration": "0:13",
+  "genre": "Animals",
+  "id": "clip55",
+  "links": {
+   "facebook": "https://facebook.com/reel/2306320476821511/",
+   "instagram": "https://www.instagram.com/reel/DfNiAmlDDI0/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip55-ohare.jpg",
+  "title": "A smoke break turned into a one-way ticket home. ✈️🐱",
+  "url": "https://facebook.com/reel/2306320476821511/"
+ },
+ {
+  "accent": "gold",
+  "alt": "New rescue horses stepping off the trailer at Colby's Crew Rescue",
+  "category": "viral",
+  "date": "2026-11-01",
+  "desc": "One by one, the new horses step off the trailer at Colby's Crew Rescue — checked in, watched over, and starting their next chapter.",
+  "duration": "0:13",
+  "genre": "Animals",
+  "id": "clip54",
+  "links": {
+   "facebook": "https://facebook.com/reel/1823911872222253/",
+   "instagram": "https://www.instagram.com/reel/DfM82mhjJ8Z/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip54-colby.jpg",
+  "title": "Fresh arrivals, straight into quarantine. 🐴",
+  "url": "https://facebook.com/reel/1823911872222253/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Two gas-station clerks on the overnight shift, staying calm under the store's one rule",
+  "category": "storytelling viral",
+  "date": "2026-10-31",
+  "desc": "Two clerks are stuck on the overnight shift at a 24-hour store, with six hours left on the clock. Their one rule is simple: never let anxiety show. Stay calm, stay happy, and you make it to morning. Our own retelling with original narration — not the original film.",
+  "duration": "0:15",
+  "genre": "Storytelling",
+  "id": "clip52",
+  "links": {
+   "facebook": "https://facebook.com/reel/1623538458622311/",
+   "instagram": "https://www.instagram.com/reel/DfLcgPTCbXG/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip52-remaincalm.jpg",
+  "title": "The scariest rule in horror? Just... stay calm.",
+  "url": "https://facebook.com/reel/1623538458622311/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Rescued grey kitten biting and playing happily",
+  "category": "viral",
+  "date": "2026-10-31",
+  "desc": "Not long ago this rescued kitten was weak and scared. Now he grabs, bites and plays — and play-biting like this is how tiny kittens practice hunting.",
+  "duration": "0:14",
+  "genre": "Animals",
+  "id": "clip53",
+  "links": {
+   "facebook": "https://facebook.com/reel/1123902163458904/",
+   "instagram": "https://www.instagram.com/reel/DfLVF0cDFLB/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip53-kitten.jpg",
+  "title": "That first tiny bite says it all.",
+  "url": "https://facebook.com/reel/1123902163458904/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Dog Berry standing on two legs and dancing in a kitchen",
+  "category": "viral",
+  "date": "2026-10-31",
+  "desc": "Berry stood up… and started dancing. This is Berry, and he did the whole viral dance trend standing on two legs — right in the middle of the kitchen. The original short landed on October 30, 2026 and pulled in over 70,000 views in a day.",
+  "duration": "0:13",
+  "genre": "Animals",
+  "id": "clip50",
+  "links": {
+   "facebook": "https://facebook.com/reel/2959808691031416/",
+   "instagram": "https://www.instagram.com/reel/DfK7jILiVXC/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip50-berry.jpg",
+  "title": "Berry stood up… and started dancing.",
+  "url": "https://facebook.com/reel/2959808691031416/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Shelter dog Koby on a beach outing with a volunteer after 100 days waiting",
+  "category": "viral",
+  "date": "2026-10-31",
+  "desc": "100 days waiting… and his owner never came. Meet Koby — a 4-year-old sweetheart who spent 100 days at the West Los Angeles Animal Shelter. He was held as a “possible owner” case, but his owner never showed up, so he became available for adoption or foster. One beach day out showed exactly who he is: a lap-loving, adventure-ready goofball. He is still waiting for a home today.",
+  "duration": "0:14",
+  "genre": "Animals",
+  "id": "clip49",
+  "links": {
+   "facebook": "https://facebook.com/reel/1467088698689873/",
+   "instagram": "https://www.instagram.com/reel/DfKmyg4jher/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip49-koby.jpg",
+  "title": "100 days waiting… and his owner never came.",
+  "url": "https://facebook.com/reel/1467088698689873/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Baby mule reunited with his mother after rescue",
+  "category": "viral",
+  "date": "2026-10-31",
+  "desc": "They tracked his mom down, reunited them safely, and with donors' help moved them both to quarantine. Now this little guy is back where he belongs, beside his mom.",
+  "duration": "0:15",
+  "genre": "Animals",
+  "id": "clip48",
+  "links": {
+   "facebook": "https://facebook.com/reel/1768545320932594/",
+   "instagram": "https://www.instagram.com/reel/DfKhTAxjhKo/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip48-colby.jpg",
+  "title": "This baby mule was separated from his mother — and rescuers refused to give up.",
+  "url": "https://facebook.com/reel/1768545320932594/"
+ },
+ {
+  "accent": "gold",
+  "alt": "White poodle in a pumpkin costume carrying a candy bucket on a Halloween porch",
+  "category": "viral",
+  "date": "2026-10-30",
+  "desc": "Pumpkin costume, rainbow ears, bucket full of treats — this standard poodle was mid trick-or-treat when a bat decoration dive-bombed him and the whole haul hit the porch.",
+  "duration": "0:10",
+  "genre": "Animals",
+  "id": "clip45",
+  "links": {
+   "facebook": "https://facebook.com/reel/1724040402575322/",
+   "instagram": "https://www.instagram.com/reel/DfIuF_cAzyq/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip45-poodle.jpg",
+  "title": "He was carrying his candy bucket like a pro — until the bat showed up.",
+  "url": "https://facebook.com/reel/1724040402575322/"
+ },
+ {
+  "accent": "violet",
+  "alt": "A man listening to his smart speaker's instructions",
+  "category": "storytelling viral",
+  "date": "2026-10-30",
+  "desc": "His smart speaker gave him instructions. He followed every one. Our own retelling with original narration — not the original film.",
+  "duration": "0:15",
+  "genre": "Storytelling",
+  "id": "clip41",
+  "links": {
+   "facebook": "https://facebook.com/reel/2334566686947681/",
+   "instagram": "https://www.instagram.com/reel/DfISzYjjGC7/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip41-alexa.jpg",
+  "title": "His smart speaker gave him instructions. He followed every one.",
+  "url": "https://facebook.com/reel/2334566686947681/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Brewers fans celebrating the franchise's first World Series title",
+  "category": "sports viral",
+  "date": "2026-10-30",
+  "desc": "57 years of waiting, decided by one final out in Tampa — Milwaukee's first-ever World Series title, seen through the fans.",
+  "duration": "0:14",
+  "genre": "Sports",
+  "id": "clip40",
+  "links": {
+   "facebook": "https://facebook.com/reel/28548864071479503/",
+   "instagram": "https://www.instagram.com/reel/DfI4tayjDfY/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip40-brewers.jpg",
+  "title": "57 years of waiting… decided by ONE final out in Tampa.",
+  "url": "https://facebook.com/reel/28548864071479503/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Floyd asleep on the couch as the phone rings with a frantic warning",
+  "category": "storytelling viral",
+  "date": "2026-10-30",
+  "desc": "A frantic call warns Floyd that someone is coming for him — and it does not sound like a joke. This is Mama Bear, Curry Barker's five-minute horror short from his channel, that's a bad idea, premiered October 29.",
+  "duration": "0:31",
+  "genre": "Storytelling",
+  "id": "clip44",
+  "links": {
+   "facebook": "https://facebook.com/reel/1447704817323802/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip44-mamabear.jpg",
+  "title": "He was asleep on the couch when the phone woke him up.",
+  "url": "https://facebook.com/reel/1447704817323802/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Woman listening in a bathroom stall after hearing crying from the next stall",
+  "category": "storytelling viral",
+  "date": "2026-10-30",
+  "desc": "She thought the bathroom was empty. Then someone started crying in the next stall. A young woman out for a run stops at a public bathroom that looks empty, then hears crying from another stall and freezes, listening to a cry from someone she cannot see. Ashlyn Khan wrote, directed and stars in this horror short. Not every cry for help is meant to be answered.",
+  "duration": "0:30",
+  "genre": "Storytelling",
+  "id": "clip42",
+  "links": {
+   "facebook": "https://facebook.com/reel/1126346326796857/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip42-areyouokay.jpg",
+  "title": "She thought the bathroom was empty. Then someone started crying in the next stall.",
+  "url": "https://facebook.com/reel/1126346326796857/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Shag the dog leading the walk through Williamsburg, Brooklyn",
+  "category": "viral",
+  "date": "2026-10-29",
+  "desc": "Andrea handed Shag the route in Williamsburg, Brooklyn — and he marched, nose up, past every corner like a dog with a plan. One confident turn later: the dog run, his favourite place on Earth. Her caption says it all: “he said trust me, i know a place.”",
+  "duration": "0:32",
+  "genre": "Animals",
+  "id": "clip39",
+  "links": {
+   "facebook": "https://facebook.com/reel/40762514743347925/",
+   "instagram": "https://www.instagram.com/reel/DfF0vaxDsqd/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip39-shag.jpg",
+  "title": "She let her dog lead the walk… and he knew exactly where he was going",
+  "url": "https://facebook.com/reel/40762514743347925/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Two German Shepherds at a shed door, and a tiny grey kitten held up in daylight",
+  "category": "viral",
+  "date": "2026-10-29",
+  "desc": "Two German Shepherds would not leave an old back shed alone — they kept sniffing and pawing at the base until their owner opened the door and found not one, but TWO tiny kittens tucked away inside. Both were lifted out gently, tucked into the pink carrier together, and handed to a local carer. Good nostrils save lives.",
+  "duration": "0:44",
+  "genre": "Animals",
+  "id": "clip35",
+  "links": {
+   "facebook": "https://facebook.com/reel/3946728538955456/",
+   "instagram": "https://www.instagram.com/reel/DfFcapIDC16/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip35-shepherds.jpg",
+  "title": "Two German Shepherds would NOT leave this shed alone — and good thing they didn't",
+  "url": "https://facebook.com/reel/3946728538955456/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Calico cat Aya settled on dog Lisa's chest, her chosen safe space",
+  "category": "viral",
+  "date": "2026-10-29",
+  "desc": "Aya, the calico cat, walked over to Lisa's bed, climbed in, and settled down with her head on Lisa's chest — while Lisa stayed still, calm and close. No training, no forcing, just trust. That is what a safe place looks like.",
+  "duration": "0:34",
+  "genre": "Animals",
+  "id": "clip34",
+  "links": {
+   "facebook": "https://facebook.com/reel/1641007037802459/",
+   "instagram": "https://www.instagram.com/reel/DfFYw3PjtSZ/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip34-aya.jpg",
+  "title": "Some safe places are chosen, not assigned",
+  "url": "https://facebook.com/reel/1641007037802459/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Orange cat Penny asleep face-buried in the bed",
+  "category": "viral",
+  "date": "2026-10-28",
+  "desc": "Penny is a 10… but she sleeps like this ALL the time. One minute she is wide awake, staring at the camera like she has somewhere important to be. The next she is curled into a loaf with her face buried in the bed, totally undisturbed.",
+  "duration": "0:48",
+  "genre": "Animals",
+  "id": "clip33",
+  "links": {
+   "facebook": "https://facebook.com/reel/1819630622417202/",
+   "instagram": "https://www.instagram.com/reel/DfEMrReE7ZF/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip33-penny.jpg",
+  "title": "Penny sleeps like this ALL the time",
+  "url": "https://facebook.com/reel/1819630622417202/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Border Collie Akari posing for a delivery proof photo",
+  "category": "viral",
+  "date": "2026-10-28",
+  "desc": "Akari took delivery duty VERY seriously. A driver dropped a package, snapped a photo for proof, and Akari turned it into a portrait — one blue eye, one brown eye, and a stare that says this package is now under new management.",
+  "duration": "0:40",
+  "genre": "Animals",
+  "id": "clip32",
+  "links": {
+   "facebook": "https://facebook.com/reel/2254484331786614/",
+   "instagram": "https://www.instagram.com/reel/DfDmN4jDx_u/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip32-akari.jpg",
+  "title": "Akari took delivery duty VERY seriously",
+  "url": "https://facebook.com/reel/2254484331786614/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Rescue dog Kurtis winking at his owner",
+  "category": "viral",
+  "date": "2026-10-28",
+  "desc": "Kurtis looked his owner dead in the eye... and dropped a wink. This adopted New York City pup had just turned three when his owner caught this quiet moment on the bed — one ear up, one floppy ear, and a look that says he knows exactly how charming he is.",
+  "duration": "0:37",
+  "genre": "Animals",
+  "id": "clip31",
+  "links": {
+   "facebook": "https://facebook.com/reel/1428814979451170/",
+   "instagram": "https://www.instagram.com/reel/DfDmnExjzDo/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip31-kurtis.jpg",
+  "title": "Kurtis dropped a wink — dead in the eye",
+  "url": "https://facebook.com/reel/1428814979451170/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Rescue puppy Cowboy celebrating a new blanket with zoomies",
+  "category": "viral",
+  "date": "2026-10-28",
+  "desc": "Cowboy got a new blankie... and needed a WHOLE room to celebrate it. This rescue puppy snuggled up with his big brother Cactus, heard one question — are you guys enjoying your new blankie? — and instantly lost it: bouncing off the walls and sliding under the couch.",
+  "duration": "0:38",
+  "genre": "Animals",
+  "id": "clip29",
+  "links": {
+   "facebook": "https://facebook.com/reel/939661132348562/",
+   "instagram": "https://www.instagram.com/reel/DfC4FfdDNne/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip29-cowboy.jpg",
+  "title": "Cowboy needed a WHOLE room to celebrate a new blankie",
+  "url": "https://facebook.com/reel/939661132348562/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Louie the puppy and Stella the cat in their Halloween skit",
+  "category": "viral",
+  "date": "2026-10-27",
+  "desc": "Louie the puppy is planning a Halloween party — but every time he explains it, his cat sister Stella makes it sound like a murder. A dubbed Halloween skit from @hi_louiehere that had the internet howling.",
+  "duration": "0:30",
+  "genre": "Comedy",
+  "id": "clip28",
+  "links": {
+   "facebook": "https://facebook.com/reel/1633380218328405/",
+   "instagram": "https://www.instagram.com/reel/DfBbjl0DlXq/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip28-louie-stella.jpg",
+  "title": "He planned a Halloween party — his cat sister made it sound like a murder",
+  "url": "https://facebook.com/reel/1633380218328405/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Woman in a banana costume inside The Moderne Bar",
+  "category": "viral",
+  "date": "2026-10-27",
+  "desc": "A car crashed into The Moderne Bar in Orlando — and a woman in a banana costume calmly walked in to report it like it was just another Tuesday. The bar's own security clip, and the calmest crash report ever filmed.",
+  "duration": "0:44",
+  "genre": "Comedy",
+  "id": "clip25",
+  "links": {
+   "facebook": "https://facebook.com/reel/1661873568848449/",
+   "instagram": "https://www.instagram.com/reel/DfAk4Gajt08/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip25-banana.jpg",
+  "title": "A woman in a banana costume calmly reported a crash into the bar",
+  "url": "https://facebook.com/reel/1661873568848449/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Orange cat Frito turning back at the door in the rain",
+  "category": "viral",
+  "date": "2026-10-27",
+  "desc": "Frito the orange cat stepped out for a taste of freedom — took one step, felt the rain, and went straight back inside. Freedom lasted about one second. From @zero.theshepherd.",
+  "duration": "0:34",
+  "genre": "Animals",
+  "id": "clip23",
+  "links": {
+   "facebook": "https://facebook.com/reel/1148393027864774/",
+   "instagram": "https://www.instagram.com/reel/DfAik5ijnkU/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip23-frito.jpg",
+  "title": "Frito quit freedom after ONE step — it was raining",
+  "url": "https://facebook.com/reel/1148393027864774/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Newlyweds Kara and West Webb pulled over by a police officer minutes after their wedding",
+  "category": "viral",
+  "date": "2026-10-26",
+  "desc": "Kara Lewis Webb and West Webb had just left their wedding at Ramble Creek in Athens, Tennessee, when they got pulled over on the way to their honeymoon. The officer asked about an unpaid California speeding ticket — then said he had a warrant for West's arrest. Kara's heart sank… until the punchline: “I got jokes.” The clip has passed 9 million views on Instagram. What a wedding-night story.",
+  "duration": "0:51",
+  "genre": "Comedy",
+  "id": "clip21",
+  "links": {
+   "facebook": "https://facebook.com/reel/1557514069464556/",
+   "instagram": "https://www.instagram.com/reel/De-k0SJDtUe/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip21-wedding-cop.jpg",
+  "title": "Married for FIVE minutes… then the cop lights came on",
+  "url": "https://facebook.com/reel/1557514069464556/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Ray and Kai Cenat recreating their first meeting outside a 7-Eleven in Japan",
+  "category": "viral",
+  "date": "2026-10-26",
+  "desc": "Three years ago, Ray was just a fan who tracked Kai Cenat down at a 7-Eleven in Japan. On October 21, they went back to that exact same store and recreated the moment that started it all. From \"This is my dream!\" to best friends.",
+  "duration": "0:41",
+  "genre": "Comedy",
+  "id": "clip20",
+  "links": {
+   "facebook": "https://facebook.com/reel/4397689377150135/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip20-kai-ray.jpg",
+  "title": "He tracked Kai Cenat down at a 7-Eleven — 3 years later, they went back",
+  "url": "https://facebook.com/reel/4397689377150135/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Sal Frelick fans celebrating in the stands at American Family Field",
+  "category": "sports viral",
+  "date": "2026-10-26",
+  "desc": "Milwaukee was down 4-0 in the first inning — then Frelick launched a 408-foot homer in the sixth off Ian Seymour, his first homer in three months, to tie World Series Game 2 at 4-4. Cooper Pratt won it in the seventh, 5-4, for a 2-0 series lead. And this is the best part: this isn't the TV angle. This is fans inside American Family Field losing it — towels waving, drinks in the air.",
+  "duration": "0:55",
+  "genre": "Sports",
+  "id": "clip19",
+  "links": {
+   "facebook": "https://facebook.com/reel/1664120048762753/",
+   "instagram": "https://www.instagram.com/reel/De9--1lj8b4/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip19-frelick.jpg",
+  "title": "Sal Frelick. Game 2. Tied at 4-4.",
+  "url": "https://facebook.com/reel/1664120048762753/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Wounded jaguar clinging to a makeshift float towed to shore on the Rio Negro",
+  "category": "viral",
+  "date": "2026-10-26",
+  "desc": "On October 1, a wounded jaguar was spotted struggling in Brazil's Rio Negro near Manaus. Amazonas environmental police slid it a makeshift float — and it wrapped its paws around it and rode it all the way to shore. Vets later found more than 30 pieces of lead shot in its face, head, and neck. It went straight into veterinary care.",
+  "duration": "0:52",
+  "genre": "Animals",
+  "id": "clip22",
+  "links": {
+   "facebook": "https://facebook.com/reel/1111522538473619/",
+   "instagram": "https://www.instagram.com/reel/De9-JdQD5Ia/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip22-jaguar.jpg",
+  "title": "It held on — a jaguar's ride to shore",
+  "url": "https://facebook.com/reel/1111522538473619/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Saif Ali Khan in the Gowardhan ghee ad, a fake Live revealing a wall of ghee jars",
+  "category": "viral",
+  "date": "2026-10-26",
+  "desc": "Saif asked for ghee on KBC… and the internet NEVER let it go. Gowardhan turned the joke into an ad on Saif's own Instagram: a fake Live, fans asking about the ghee, and then the camera slips, revealing a whole wall of ghee jars. His response? “Stop asking me for the ghee.”",
+  "duration": "0:51",
+  "genre": "Comedy",
+  "id": "clip17",
+  "links": {
+   "facebook": "https://facebook.com/reel/961792906589250/",
+   "instagram": "https://www.instagram.com/reel/De9-IWyD8m0/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip17-saif-ghee.jpg",
+  "title": "Saif asked for ghee… and the internet NEVER let it go",
+  "url": "https://facebook.com/reel/961792906589250/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Voxel the robot butler watering a bonsai plant",
+  "category": "viral",
+  "date": "2026-10-25",
+  "desc": "Meet Voxel, the home robot from New York startup Tuesday Labs. It tidies your home, finds the things you lose, fetches what you ask for and even waters your plants — with movements choreographed by Pixar animators. First run: just 999 units at around $20,000.",
+  "duration": "0:50",
+  "genre": "Viral",
+  "id": "clip16",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De8HiUnglVD/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip16-voxel.jpg",
+  "title": "A robot butler with NO head — its face is in its belly",
+  "url": "https://www.instagram.com/reel/De8HiUnglVD/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "The tiny house Brent's son secretly built on the roof",
+  "category": "storytelling viral",
+  "date": "2026-10-25",
+  "desc": "Brent climbed up to his own roof and found a full tiny house his son had secretly built up there — proper walls, windows, a rug, a chair, even a TV inside for game day. The tour passed 10 million views, and honestly? The real question is how long it sat up there before he noticed.",
+  "duration": "0:32",
+  "genre": "Story · Comedy",
+  "id": "clip15",
+  "links": {
+   "facebook": "https://facebook.com/reel/1465208255496583/",
+   "instagram": "https://www.instagram.com/reel/De7ffUGjCvP/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip15-brent.jpg",
+  "title": "His son built an entire house on the roof",
+  "url": "https://facebook.com/reel/1465208255496583/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Conan O'Brien on SubwayTakes",
+  "category": "viral",
+  "date": "2026-10-24",
+  "desc": "On SubwayTakes with Kareem Rahma, a total stranger sat down next to Conan O'Brien on the subway — and the improv that followed topped the Internet Recap at number one. Conan commits to the bit like only Conan can.",
+  "duration": "0:50",
+  "genre": "Comedy",
+  "id": "clip14",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De5b7-rjNqT/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip14-conan.jpg",
+  "title": "Conan O'Brien just met his subway ex-wife",
+  "url": "https://www.instagram.com/reel/De5b7-rjNqT/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Security-camera still from the Newburgh brewery at night",
+  "category": "storytelling viral",
+  "date": "2026-10-24",
+  "desc": "The kitchen was locked. The brewery was empty. Yet this 1850s Newburgh brewery's own security cameras caught a face shape in the dark, pots and trays moved on their own, and two knives simply vanished. A true scary story, told from the brewery's own stills.",
+  "duration": "0:50",
+  "genre": "Storytelling",
+  "id": "clip13",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De5NfhiDA8S/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip13-newburgh.jpg",
+  "title": "The brewery camera caught a face in the dark",
+  "url": "https://www.instagram.com/reel/De5NfhiDA8S/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Dan McFarland at the gas station air pump",
+  "category": "viral",
+  "date": "2026-10-24",
+  "desc": "Dan McFarland pulls up to the gas station, sees that air now costs $3.00, and delivers the one-word dad joke the whole internet heard coming — INFLATION. Some jokes are so obvious they loop back to genius.",
+  "duration": "0:43",
+  "genre": "Comedy",
+  "id": "clip12",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De41XjrDm_y/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip12-mcfarlands.jpg",
+  "title": "Air used to be free. Now it's $3. You know why?",
+  "url": "https://www.instagram.com/reel/De41XjrDm_y/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Joe Mele and his dad in their duo trend video",
+  "category": "viral",
+  "date": "2026-10-24",
+  "desc": "Joe Mele drops a line on his dad that he's never said before — and his dad's reaction is the whole video. The father-son duo the internet can't get enough of, doing what they do best.",
+  "duration": "0:30",
+  "genre": "Comedy",
+  "id": "clip11",
+  "links": {
+   "facebook": "https://facebook.com/reel/1109646315113733/",
+   "instagram": "https://www.instagram.com/reel/De4oArcDMsM/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip11-joemele.jpg",
+  "title": "He said 'I never told you this before…' — then THIS happened",
+  "url": "https://facebook.com/reel/1109646315113733/"
+ },
+ {
+  "accent": "violet",
+  "alt": "The dad-son no-dialogue skit",
+  "category": "viral",
+  "date": "2026-10-24",
+  "desc": "Dad woke up and chose violence, ready for a full argument. His son calmly gave him absolutely no reason — and the whole fight deflated on the spot. A no-dialogue dad-son skit carried entirely by the captions.",
+  "duration": "0:30",
+  "genre": "Comedy",
+  "id": "clip10",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De4f37ljEmi/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip10-supereeego.jpg",
+  "title": "Dad wanted an argument — his son gave him NOTHING",
+  "url": "https://www.instagram.com/reel/De4f37ljEmi/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Global Esports farewell video still",
+  "category": "esports viral",
+  "date": "2026-10-23",
+  "desc": "Global Esports walked away from Valorant at its peak — and the founder's farewell video left the entire Pacific scene stunned. Why would a team leave while it's winning? This is what he said, and what it means.",
+  "duration": "0:40",
+  "genre": "Esports",
+  "id": "clip9",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De2pNcYjkyz/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip9-ge.jpg",
+  "title": "The goodbye that stunned Valorant's Pacific scene",
+  "url": "https://www.instagram.com/reel/De2pNcYjkyz/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Becky Strasburger's '90s diet-culture sketch",
+  "category": "viral",
+  "date": "2026-10-23",
+  "desc": "Comedian Becky Strasburger nails '90s diet culture — the mom wig, the SnackWell's, the Slim-Fast, the whole grocery cart of good intentions. If you lived it, you'll feel every second of this sketch.",
+  "duration": "0:43",
+  "genre": "Comedy",
+  "id": "clip5",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De2Qm0DjpAw/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip5-diet.jpg",
+  "title": "In the '90s, a diet was not a diet unless the cart looked like this",
+  "url": "https://www.instagram.com/reel/De2Qm0DjpAw/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Samarth Jurel chewing coconut in the loop clip",
+  "category": "viral",
+  "date": "2026-10-23",
+  "desc": "Actor Samarth Jurel, stuck in a loop, chewing coconut — forever. A tiny, perfectly relatable bit that blew up and spawned a whole trend of recreations. Once you see the loop, you can't unsee it.",
+  "duration": "0:41",
+  "genre": "Comedy",
+  "id": "clip4",
+  "links": {
+   "instagram": "https://www.instagram.com/reel/De2BVWzD68k/"
+  },
+  "platform": "Instagram",
+  "thumb": "thumbs/clip4-coconut.jpg",
+  "title": "Coconut does not end. It just pauses between chews.",
+  "url": "https://www.instagram.com/reel/De2BVWzD68k/"
+ },
+ {
+  "accent": "violet",
+  "alt": "Source video thumbnail — the grand final stage moment everyone misread",
+  "category": "esports viral",
+  "date": "2026-10-23",
+  "desc": "One gesture on stage at an esports grand final, a flood of outrage online, and an entire scene arguing — until the real story came out. It was never aimed at a rival at all; it was friendly banter between teammates.",
+  "duration": "0:42",
+  "genre": "Esports",
+  "id": "clip3",
+  "links": {
+   "facebook": "https://facebook.com/reel/1803921487400939/",
+   "instagram": "https://www.instagram.com/reel/De18hFjj0lb/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip3-s8ul.jpg",
+  "title": "One gesture at the grand final everyone misread",
+  "url": "https://facebook.com/reel/1803921487400939/"
+ },
+ {
+  "accent": "gold",
+  "alt": "Source video thumbnail — the baby monkey with his favorite plush toy",
+  "category": "storytelling viral",
+  "date": "2026-10-22",
+  "desc": "A baby monkey, separated from his mother, comforts himself by cuddling a plush orangutan everywhere he goes — eating, exploring, even sleeping. The internet fell for him instantly — this is why.",
+  "duration": "0:39",
+  "genre": "Storytelling",
+  "id": "clip2",
+  "links": {
+   "facebook": "https://facebook.com/reel/1993823901293477/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip1-punch-monkey.jpg",
+  "title": "The baby monkey and his favorite plush",
+  "url": "https://facebook.com/reel/1993823901293477/"
+ },
+ {
+  "accent": "cyan",
+  "alt": "Comedian Lloyd Griffith heading a ball at Brentford",
+  "category": "sports storytelling viral",
+  "date": "2026-10-22",
+  "desc": "A lifelong fan finally lives his childhood dream — heading a ball in front of a packed stadium. Thirty-six years of waiting, over in one perfect second, and the celebration says everything.",
+  "duration": "0:31",
+  "genre": "Sports · Story",
+  "id": "clip1",
+  "links": {
+   "facebook": "https://facebook.com/reel/1883707809455642/",
+   "instagram": "https://www.instagram.com/reel/De0W-PHjq2b/"
+  },
+  "platform": "Facebook",
+  "thumb": "thumbs/clip2-griffith.jpg",
+  "title": "The 36-year header — Brentford vs Liverpool",
+  "url": "https://facebook.com/reel/1883707809455642/"
+ }
 ]
